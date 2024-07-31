@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="/Git_wp/yopo2024.jpg" alt="Samuel G. Moreno S." class="profile-picture">
+            <h1>Samuel Moreno</h1>
+            <nav>
+                <ul>
+                    <li><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="{{ site.baseurl }}/research">Research</a></li>
+                    <li><a href="{{ site.baseurl }}/cv">CV</a></li>
+                    <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+</body>
+</html>
