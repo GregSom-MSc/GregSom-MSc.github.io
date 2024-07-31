@@ -27,8 +27,6 @@ We propose several nonparametric predictors of the mid-price in a limit order bo
 **Abstract:**
 The cost of executing orders could differ from the cost of trades. We estimate the cost of a fund manager’s orders to trade in shares and contracts for differences (CFDs), using data for 2013-15. We compare directly the effective half-spread (EHS) of an order with the EHS that would be inferred using market data, namely the average EHS of trades in the relevant share, and the quoted half-spread. The typical EHS of an order is approximately same as the cost inferred from market data, while the typical cost of CFDs is slightly higher. However, there is wide variation in the cost of orders, and about one third have a negative spread. The cost of orders by value exceeds the inferred cost, mainly because of a small percentage of orders with very large spreads.
 
-Feel free to explore and contact me if you have any questions or need further information.
-
 - [The evolving relation between dividends and flexible payouts: A different evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/eufm.12288)
 
 **Abstract:**
