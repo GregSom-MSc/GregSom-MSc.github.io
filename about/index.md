@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is professional webpage based on the basic Jekyll theme.
+This professional webpage is based on the basic Jekyll theme.
 
 The page will be deployed and you can contact me preferable through my webpage.
 
