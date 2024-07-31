@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /home/
+
 ---
 
 Experienced Finance Analyst & Economist with a demonstrated background inmacroeconomics, banking, data and financial analysis.
