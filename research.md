@@ -41,7 +41,7 @@ Here you go, some useful resources related to finance, data... More to arrive so
 
 - <b>Rónán Gallagher (2020)</b> [The evolving relation between dividends and flexible payouts: A different evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/eufm.12288)
 
-**Abstract:**
+  **Abstract:**
   <div style="text-align: justify;font-size: smaller;">
   We study payout by UK listed companies during 1993–2018. Regular dividends remain the dominant channel, but flexible payouts (special dividends and repurchases) have grown, and they make total payout more responsive to earnings. Flexible payouts are used to augment regular dividends: few companies pay out by flexible means only, and tests indicate that they augment rather than replace regular dividends. Comparison with US evidence shows that UK companies make greater use of dividends (including specials) in relation to repurchases, and have a greater willingness to change regular dividend per share.
   </div>
