@@ -44,6 +44,7 @@ title: Contact
     }
     .contact-form input[type="submit"]:hover {
         background-color: #134074;
+        color: white;
     }
 </style>
 
