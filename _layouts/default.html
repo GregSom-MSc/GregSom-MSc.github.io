@@ -7,19 +7,20 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header>
-        <div class="container">
-            <img src="/Git_wp/yopo2024.jpg" alt="Samuel G. Moreno S." class="profile-picture">
+    <header class="site-header">
+        <div class="header-background"></div>
+        <div class="profile-container">
+            <img src="{{ '/assets/images/yopo2024.jpg' | relative_url }}" alt="Samuel Moreno" class="profile-picture">
             <h1>Samuel Moreno</h1>
-            <nav>
-                <ul>
-                    <li><a href="{{ site.baseurl }}/">Home</a></li>
-                    <li><a href="{{ site.baseurl }}/research">Research</a></li>
-                    <li><a href="{{ site.baseurl }}/cv">CV</a></li>
-                    <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-                </ul>
-            </nav>
         </div>
+        <nav class="site-nav">
+            <ul>
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/research">Research</a></li>
+                <li><a href="{{ site.baseurl }}/about">About Me</a></li>
+                <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
         {{ content }}
