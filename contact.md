@@ -37,7 +37,7 @@ title: Contact
         border: none;
         border-radius: 4px;
         background-color: #BBC5AA;
-        color: white;
+        color: #0D1F2D;
         cursor: pointer;
         margin-top: 10px;
         align-self: center;
