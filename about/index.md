@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+
+Experienced Finance Analyst & Economist with a demonstrated background in macroeconomics, banking, data and financial analysis.
+I love tech, sustainability, and innovation.
+MSc in Finance, Technology, and Policy from the University of Edinburgh, love to learn more everyday.
+I'm passionate about history, travel and aquascaping.
+
 This professional webpage is based on the basic Jekyll theme.
 
 The page will be deployed and you can contact me preferable through my webpage.
