@@ -5,14 +5,17 @@ title: Research
 
 ## Research and Resources
 
-Welcome to the research page. Here, you will find links to some useful resources and my research papers.
+Welcome. In this page you can find useful links to some interesting stuff.
 
 ### Personal Research Resources
 
-- [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
+- My personal profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
 
-- [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113) (based on my Itam Thesis)
+- Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113) (based on my Itam Thesis)
 
+- Repositories
+
+- Samuel G. Moreno and awesome UoE team. [Disease prevalence by NHS in Scotland](https://gregsom-msc.github.io/Bubble_Maps_SG23/)
 ### External Resources
 
 Here, you can add some useful resources related to your research.
