@@ -56,7 +56,7 @@ title: Contact
         <input type="email" id="email" name="email"><br>
         
         <label for="message">Message</label>
-        <textarea id="message" name="message"><br></textarea>
+        <textarea id="message" name="message">How can I help you?</textarea><br>
         <br>
         <input type="submit" value="Send">
     </form>
