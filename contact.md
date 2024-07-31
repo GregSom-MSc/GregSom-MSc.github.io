@@ -43,7 +43,7 @@ title: Contact
         align-self: center;
     }
     .contact-form input[type="submit"]:hover {
-        background-color: #0056b3;
+        background-color: #134074;
     }
 </style>
 
