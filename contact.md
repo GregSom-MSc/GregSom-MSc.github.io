@@ -36,7 +36,7 @@ title: Contact
         padding: 10px;
         border: none;
         border-radius: 4px;
-        background-color: #007BFF;
+        background-color: #BBC5AA;
         color: white;
         cursor: pointer;
         margin-top: 10px;
