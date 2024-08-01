@@ -19,6 +19,9 @@ I will post here some useful resources I've gathered, as well as some of my favo
 
 - [Disease Prevalence Maps by NHS Region](https://gregsom-msc.github.io/Bubble_Maps_SG23/) (UoB Project)
 
+- [Some nice Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes) (Free to use)
+  
+
 <br><br>
 ### External Resources
 
