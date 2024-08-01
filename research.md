@@ -4,8 +4,12 @@ title: Research
 ---
 
 ## Research and Resources
+<div style="text-align: justify;">
+Welcome to the research page. <br> <br>
+I will post here some useful resources I've gathered, as well as some of my favorite research projects and papers. <br><br>
+<b>Feel free to explore.</b></div> <br>
 
-Welcome. In this page you can find useful links to some interesting stuff.
+
 
 ### Personal Research Resources
 
@@ -15,7 +19,6 @@ Welcome. In this page you can find useful links to some interesting stuff.
 
 - Repositories
 
-- Samuel G. Moreno and awesome UoE team. [Disease prevalence by NHS in Scotland](https://gregsom-msc.github.io/Bubble_Maps_SG23/)
 ### External Resources
 
 Here, you can add some useful resources related to your research.
