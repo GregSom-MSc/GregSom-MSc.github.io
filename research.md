@@ -11,13 +11,13 @@ Welcome to the research page. You will find some of the useful resources I've ga
 ### Personal Research Resources
 
 <ul>
- <li>My personal profile <a href="https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es">Google Scholar Profile</a></li>
+  <li>My personal Scholar profile <a href="https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es">Google Scholar Profile</a></li>
 
- <li>Alejandro Islas Camargo & Samuel G. Moreno Santoyo <a href="https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113">Remittances from USA to Mexico</a> (based on my Itam Thesis)</li>
+  <li>Alejandro Islas Camargo & Samuel G. Moreno Santoyo <a href="https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113">Remittances from USA to Mexico</a></li>
 
- <li><a href="https://gregsom-msc.github.io/Bubble_Maps_SG23/">Disease Prevalence Maps by NHS Region</a> (UoB Project)</li>
+  <li><a href="https://gregsom-msc.github.io/Bubble_Maps_SG23/">Disease Prevalence Maps by NHS Region</a></li>
 
- <li><a href="https://public.tableau.com/app/profile/samuel5241/vizzes">Tableau projects</a> (Free to use)</li>
+  <li><a href="https://public.tableau.com/app/profile/samuel5241/vizzes">Tableau projects</a></li>
 </ul>
 </div>
 <br>
