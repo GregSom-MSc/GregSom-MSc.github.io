@@ -17,6 +17,13 @@ header {
     text-align: center;
 }
 
+.site-footer {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ccc;
+}
 .container {
     max-width: 800px;
     margin: auto;
@@ -61,4 +68,27 @@ main {
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
+}
+
+.site-footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin: 0 10px;
+    color: #666;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: #333;
+}
+
+.footer-disclaimer {
+    font-size: smaller;
+    color: #666;
 }
