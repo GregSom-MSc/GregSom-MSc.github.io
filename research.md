@@ -6,12 +6,12 @@ title: Research
 ## Research and Resources
 <div style="text-align: justify;font-size: smaller;">
 Welcome to the research page. You will find some of the useful resources I've gathered, as well as some of my favorite research projects and papers. <br><br>
-<b>Feel free to explore.</b></div> <br>
+<b>Feel free to explore.</b></div>
 
 
 ### Personal Research Resources
 
-<div style=font-size: smaller;">
+
  - My personal profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
 
  - Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113) (based on my Itam Thesis)
@@ -20,8 +20,7 @@ Welcome to the research page. You will find some of the useful resources I've ga
 
  - [Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes) (Free to use)
 
-</div>
-<br><br>
+<br>
 ### External Resources
 
 Here you go, some useful resources related to finance, data... More to arrive soon.
