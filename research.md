@@ -15,13 +15,13 @@ Welcome to the research page. You will find some of the useful resources I've ga
 <div style="font-size: smaller;">
 - My personal profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
 
-- Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113) (based on my Itam Thesis)
+- Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113)
 
-- [Disease Prevalence Maps by NHS Region](https://gregsom-msc.github.io/Bubble_Maps_SG23/) (UoB Project)
+- [Disease Prevalence Maps by NHS Region](https://gregsom-msc.github.io/Bubble_Maps_SG23/)
 
-- [Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes) (Free to use)
+- [Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes)
 </div>
-<br><br>
+<br>
 
 ### External Resources
 
