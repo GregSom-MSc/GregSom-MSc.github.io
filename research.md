@@ -8,20 +8,20 @@ title: Research
 Welcome to the research page. You will find some of the useful resources I've gathered, as well as some of my favorite research projects and papers. <br><br>
 <b>Feel free to explore.</b>
 </div>
-<br>
 
 ### Personal Research Resources
 
 <div style="font-size: smaller;">
-- My personal profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
+ 
+ - My personal Scholar profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
 
-- Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113) (based on my Itam Thesis)
+- Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113)
 
 - [Disease Prevalence Maps by NHS Region](https://gregsom-msc.github.io/Bubble_Maps_SG23/) (UoB Project)
 
 - [Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes) (Free to use)
 </div>
-<br><br>
+<br>
 
 ### External Resources
 
