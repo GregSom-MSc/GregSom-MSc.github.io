@@ -1,10 +1,22 @@
 body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.site-header,
+header {
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
 .site-footer {
     width: 100%;
     box-sizing: border-box;
@@ -12,29 +24,50 @@ body {
     background-color: #f9f9f9;
     border-top: 1px solid #ccc;
 }
-
-.site-header {
-    border-bottom: 1px solid #ccc;
+.container {
+    max-width: 800px;
+    margin: auto;
 }
 
-.profile-container {
-    text-align: center;
+.profile-picture {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
 }
 
-.site-nav ul {
+nav ul {
     list-style: none;
     padding: 0;
-    text-align: center;
 }
 
-.site-nav ul li {
+nav ul li {
     display: inline;
     margin: 0 10px;
 }
 
-.site-nav ul li a {
+nav ul li a {
     text-decoration: none;
     color: #333;
+}
+
+main {
+    padding: 20px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form input,
+.contact-form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 .site-footer {
@@ -59,4 +92,3 @@ body {
     font-size: smaller;
     color: #666;
 }
-
