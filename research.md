@@ -8,9 +8,7 @@ title: Research
 Welcome to the research page. You will find some of the useful resources I've gathered, as well as some of my favorite research projects and papers. <br><br>
 <b>Feel free to explore.</b></div>
 
-
 ### Personal Research Resources
-
 
  - My personal profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
 
@@ -21,11 +19,11 @@ Welcome to the research page. You will find some of the useful resources I've ga
  - [Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes) (Free to use)
 
 <br>
+
 ### External Resources
 
 Here you go, some useful resources related to finance, data... More to arrive soon.
 
-<div style=font-size: smaller;">
 - <b>Adamantios Ntakaris et al (2017)</b> [Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods](https://arxiv.org/abs/1705.03233)
 
   **Abstract:**
@@ -53,8 +51,6 @@ Here you go, some useful resources related to finance, data... More to arrive so
   <div style="text-align: justify;font-size: smaller;">
   In this chapter, we examine the use of machine learning (ML) in financial markets and argue that the adoption of ML into finance is bringing to light new issues that have traditionally fallen outside the purview of the sociology of finance and financial modelling. While quantitative models have traditionally been used in a relatively narrow set of contexts within financial organizations, ML adoption has occurred rapidly on the periphery of the trading floor. The use of ML in more mundane areas of finance creates opportunities for sociologists interested in financial modelling to engage with scholarly work from related fields, such as critical algorithm studies and international political economy. Furthermore, we argue that the use of ML methods may be facilitating a cultural and infrastructural alignment between Big Tech and financial services both through the adoption of open source software within finance and the dependence of ML on large-scale cloud infrastructures. Accordingly, we identify two potential directions for future work on the sociology of financial machine learning: a ‘horizontal’ expansion to account for the ways machine learning is being used across financial institutions, and a ‘vertical’ deepening that investigates the infrastructures upon which ML systems are developed and deployed, and how they are shaping financial institutions and markets.
   </div>
-
- </div>
 
 <br>
 <hr><br>
