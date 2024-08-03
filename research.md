@@ -10,6 +10,7 @@ Welcome to the research page. You will find some of the useful resources I've ga
 
 ### Personal Research Resources
 
+<div style="font-size: smaller;">
  - My personal profile [Google Scholar Profile](https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es)
 
  - Alejandro Islas Camargo & Samuel G. Moreno Santoyo [Remittances from USA to Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113) (based on my Itam Thesis)
@@ -17,7 +18,7 @@ Welcome to the research page. You will find some of the useful resources I've ga
  - [Disease Prevalence Maps by NHS Region](https://gregsom-msc.github.io/Bubble_Maps_SG23/) (UoB Project)
 
  - [Tableau projects](https://public.tableau.com/app/profile/samuel5241/vizzes) (Free to use)
-
+</div>
 <br>
 
 ### External Resources
