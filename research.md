@@ -4,11 +4,9 @@ title: Research
 ---
 
 ## Research and Resources
-<div style="text-align: justify;">
-Welcome to the research page. <br> <br>
-I will post here some useful resources I've gathered, as well as some of my favorite research projects and papers. <br><br>
+<div style="text-align: justify;font-size: smaller;">
+Welcome to the research page. You will find some of the useful resources I've gathered, as well as some of my favorite research projects and papers. <br><br>
 <b>Feel free to explore.</b></div> <br>
-
 
 
 ### Personal Research Resources
@@ -47,6 +45,15 @@ Here you go, some useful resources related to finance, data... More to arrive so
   <div style="text-align: justify;font-size: smaller;">
   We study payout by UK listed companies during 1993–2018. Regular dividends remain the dominant channel, but flexible payouts (special dividends and repurchases) have grown, and they make total payout more responsive to earnings. Flexible payouts are used to augment regular dividends: few companies pay out by flexible means only, and tests indicate that they augment rather than replace regular dividends. Comparison with US evidence shows that UK companies make greater use of dividends (including specials) in relation to repurchases, and have a greater willingness to change regular dividend per share.
   </div>
+
+- <b>Taylor spears (2023)</b> [The use and promises of Machine Learning in financial markets: From mundane practices to complex automated system](https://doi.org/10.1093/oxfordhb/9780197653609.013.6)
+
+  **Abstract:**
+  <div style="text-align: justify;font-size: smaller;">
+  In this chapter, we examine the use of machine learning (ML) in financial markets and argue that the adoption of ML into finance is bringing to light new issues that have traditionally fallen outside the purview of the sociology of finance and financial modelling. While quantitative models have traditionally been used in a relatively narrow set of contexts within financial organizations, ML adoption has occurred rapidly on the periphery of the trading floor. The use of ML in more mundane areas of finance creates opportunities for sociologists interested in financial modelling to engage with scholarly work from related fields, such as critical algorithm studies and international political economy. Furthermore, we argue that the use of ML methods may be facilitating a cultural and infrastructural alignment between Big Tech and financial services both through the adoption of open source software within finance and the dependence of ML on large-scale cloud infrastructures. Accordingly, we identify two potential directions for future work on the sociology of financial machine learning: a ‘horizontal’ expansion to account for the ways machine learning is being used across financial institutions, and a ‘vertical’ deepening that investigates the infrastructures upon which ML systems are developed and deployed, and how they are shaping financial institutions and markets.
+  </div>
+  
+ s
 
 
 <br>
