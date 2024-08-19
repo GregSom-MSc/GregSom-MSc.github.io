@@ -51,8 +51,8 @@ Here you go, some useful resources related to finance, data... More to arrive so
   In this chapter, we examine the use of machine learning (ML) in financial markets and argue that the adoption of ML into finance is bringing to light new issues that have traditionally fallen outside the purview of the sociology of finance and financial modelling. While quantitative models have traditionally been used in a relatively narrow set of contexts within financial organizations, ML adoption has occurred rapidly on the periphery of the trading floor. The use of ML in more mundane areas of finance creates opportunities for sociologists interested in financial modelling to engage with scholarly work from related fields, such as critical algorithm studies and international political economy. Furthermore, we argue that the use of ML methods may be facilitating a cultural and infrastructural alignment between Big Tech and financial services both through the adoption of open source software within finance and the dependence of ML on large-scale cloud infrastructures. Accordingly, we identify two potential directions for future work on the sociology of financial machine learning: a ‘horizontal’ expansion to account for the ways machine learning is being used across financial institutions, and a ‘vertical’ deepening that investigates the infrastructures upon which ML systems are developed and deployed, and how they are shaping financial institutions and markets.
 
 - <b>Richard S. Sutton and Andrew G. Barto(2018)</b>
-  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
-  [Code](http://incompleteideas.net/book/code/code2nd.html)
+  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf)<br>
+  [Code](http://incompleteideas.net/book/code/code2nd.html)<br>
   [Webpage](http://incompleteideas.net/book/the-book-2nd.html)
 
   **Teaser: Prologue to the first Edition**
