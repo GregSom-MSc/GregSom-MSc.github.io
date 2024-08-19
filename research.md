@@ -30,7 +30,7 @@ Here you go, some useful resources related to finance, data... More to arrive so
   Managing the prediction of metrics in high-frequency financial markets is a challenging task. An efficient way is by monitoring the dynamics of a limit order book to identify the information edge. This paper describes the first publicly available benchmark dataset of high-frequency limit order markets for mid-price prediction. We extracted normalized data representations of time series data for five stocks from the NASDAQ Nordic stock market for a time period of ten consecutive days, leading to a dataset of ~4,000,000 time series samples in total. A day-based anchored cross-validation experimental protocol is also provided that can be used as a benchmark for comparing the performance of state-of-the-art methodologies. Performance of baseline approaches are also provided to facilitate experimental comparisons. We expect that such a large-scale dataset can serve as a testbed for devising novel solutions of expert systems for high-frequency limit order book data analysis.
   </div>
 
-- <b>Gbenga Ibikunle, Seth Armitage, James Clunie (2016)</b> [The Cost of Trading from the Fund Manager's Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2836070)
+- <b>Gbenga Ibikunle, Seth Armitage, James Clunie (2016)</b><br> [The Cost of Trading from the Fund Manager's Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2836070)
 
   **Abstract:**
   <div style="text-align: justify;font-size: smaller;">
