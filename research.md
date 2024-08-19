@@ -49,6 +49,16 @@ Here you go, some useful resources related to finance, data... More to arrive so
   **Abstract:**
   <div style="text-align: justify;font-size: smaller;">
   In this chapter, we examine the use of machine learning (ML) in financial markets and argue that the adoption of ML into finance is bringing to light new issues that have traditionally fallen outside the purview of the sociology of finance and financial modelling. While quantitative models have traditionally been used in a relatively narrow set of contexts within financial organizations, ML adoption has occurred rapidly on the periphery of the trading floor. The use of ML in more mundane areas of finance creates opportunities for sociologists interested in financial modelling to engage with scholarly work from related fields, such as critical algorithm studies and international political economy. Furthermore, we argue that the use of ML methods may be facilitating a cultural and infrastructural alignment between Big Tech and financial services both through the adoption of open source software within finance and the dependence of ML on large-scale cloud infrastructures. Accordingly, we identify two potential directions for future work on the sociology of financial machine learning: a ‘horizontal’ expansion to account for the ways machine learning is being used across financial institutions, and a ‘vertical’ deepening that investigates the infrastructures upon which ML systems are developed and deployed, and how they are shaping financial institutions and markets.
+
+- <b>Richard S. Sutton and Andrew G. Barto(2018)</b>
+  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
+  [Code](http://incompleteideas.net/book/code/code2nd.html)
+  [Webpage](http://incompleteideas.net/book/the-book-2nd.html)
+
+  **Teaser: Prologue to the first Edition**
+  <div style="text-align: justify;font-size: smaller;">
+  We first came to focus on what is now known as reinforcement learning in late 1979. We were both at the University of Massachusetts, working on one of the earliest projects to revive the idea that networks of neuronlike adaptive elements might prove to be a promising approach to artificial adaptive intelligence. The project explored the “heterostatic theory of adaptive systems” developed by A. Harry Klopf. Harry’s work was a rich source of ideas, and we were permitted to explore them critically and compare them with the long history of prior work in adaptive systems. Our task became one of teasing the ideas apart and understanding their relationships and relative importance. This continues today, but in 1979 we came to realize that perhaps the simplest of the ideas, which had long been taken for granted, had received surprisingly little attention from a computational perspective. This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a “hedonistic” learning system, or, as we would say now, the idea of reinforcement learning.
+MIT Press, Cambridge, MA
   </div>
 
 <br>
