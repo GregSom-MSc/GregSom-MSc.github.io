@@ -2,11 +2,36 @@
     {
         "author": "Adamantios Ntakaris et al (2017)",
         "title": "Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods",
-        "abstract": "Managing the prediction of metrics in high-frequency financial markets is a challenging task. An efficient way is by monitoring the dynamics of a limit order book to identify the information edge. This paper describes the first publicly available benchmark dataset of high-frequency limit order markets for mid-price prediction. We extracted normalized data representations of time series data for five stocks from the NASDAQ Nordic stock market for a time period of ten consecutive days, leading to a dataset of ~4,000,000 time series samples in total. A day-based anchored cross-validation experimental protocol is also provided that can be used as a benchmark for comparing the performance of state-of-the-art methodologies. Performance of baseline approaches are also provided to facilitate experimental comparisons. We expect that such a large-scale dataset can serve as a testbed for devising novel solutions of expert systems for high-frequency limit order book data analysis."
+         "url": "https://arxiv.org/abs/1705.03233",
+        "abstract": "Managing the prediction of metrics in high-frequency financial markets is a challenging task. An efficient way is by monitoring the dynamics of a limit order book to identify the information edge. This paper describes the first publicly available benchmark dataset of high-frequency limit order markets for mid-price prediction. We extracted normalized data representations of time series data for five stocks from the NASDAQ Nordic stock market for a time period of ten consecutive days, leading to a dataset of ~4,000,000 time series samples in total. A day-based anchored cross-validation experimental protocol is also provided that can be used as a benchmark for comparing the performance of state-of-the-art methodologies. Performance of baseline approaches are also provided to facilitate experimental comparisons. We expect that such a large-scale dataset can serve as a testbed for devising novel solutions of expert systems for high-frequency limit order book data analysis.",
+        "code_url": null
     },
     {
-        "author": "Jane Doe et al (2022)",
-        "title": "Analysis of Stock Market Trends Using Machine Learning Algorithms",
-        "abstract": "This study focuses on the application of machine learning algorithms in predicting stock market trends. It explores the potential of several methods, including support vector machines, random forests, and deep learning, to generate accurate forecasts of stock prices. Using data from the New York Stock Exchange, the study demonstrates the effectiveness of machine learning techniques for financial prediction and offers insights into the best practices for model development and evaluation in this field."
+        "author": "Gbenga Ibikunle, Seth Armitage, James Clunie (2016)",
+        "title": "The Cost of Trading from the Fund Manager's Perspective",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2836070",
+        "abstract": "The cost of executing orders could differ from the cost of trades. We estimate the cost of a fund manager’s orders to trade in shares and contracts for differences (CFDs), using data for 2013-15. We compare directly the effective half-spread (EHS) of an order with the EHS that would be inferred using market data, namely the average EHS of trades in the relevant share, and the quoted half-spread. The typical EHS of an order is approximately same as the cost inferred from market data, while the typical cost of CFDs is slightly higher. However, there is wide variation in the cost of orders, and about one third have a negative spread. The cost of orders by value exceeds the inferred cost, mainly because of a small percentage of orders with very large spreads.",
+        "code_url": null
+    },
+    {
+        "author": "Rónán Gallagher (2020)",
+        "title": "The evolving relation between dividends and flexible payouts: A different evolution",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/eufm.12288",
+        "abstract": "We study payout by UK listed companies during 1993–2018. Regular dividends remain the dominant channel, but flexible payouts (special dividends and repurchases) have grown, and they make total payout more responsive to earnings. Flexible payouts are used to augment regular dividends: few companies pay out by flexible means only, and tests indicate that they augment rather than replace regular dividends. Comparison with US evidence shows that UK companies make greater use of dividends (including specials) in relation to repurchases, and have a greater willingness to change regular dividend per share.",
+        "code_url": null
     }
+    {
+        "author": "Taylor spears (2023)",
+        "title": "The use and promises of Machine Learning in financial markets: From mundane practices to complex automated system",
+        "url": "https://doi.org/10.1093/oxfordhb/9780197653609.013.6",
+        "abstract": "In this chapter, we examine the use of machine learning (ML) in financial markets and argue that the adoption of ML into finance is bringing to light new issues that have traditionally fallen outside the purview of the sociology of finance and financial modelling. While quantitative models have traditionally been used in a relatively narrow set of contexts within financial organizations, ML adoption has occurred rapidly on the periphery of the trading floor. The use of ML in more mundane areas of finance creates opportunities for sociologists interested in financial modelling to engage with scholarly work from related fields, such as critical algorithm studies and international political economy. Furthermore, we argue that the use of ML methods may be facilitating a cultural and infrastructural alignment between Big Tech and financial services both through the adoption of open source software within finance and the dependence of ML on large-scale cloud infrastructures. Accordingly, we identify two potential directions for future work on the sociology of financial machine learning: a ‘horizontal’ expansion to account for the ways machine learning is being used across financial institutions, and a ‘vertical’ deepening that investigates the infrastructures upon which ML systems are developed and deployed, and how they are shaping financial institutions and markets.",
+        "code_url": null
+    },
+    {
+        "author": "Richard S. Sutton and Andrew G. Barto(2018)",
+        "title": "Reinforcement Learning: An Introduction",
+        "url": "http://incompleteideas.net/book/RLbook2020.pdf",
+        "code_url": "http://incompleteideas.net/book/code/code2nd.html",
+        "abstract": "**Teaser: Prologue to the first Edition**: We first came to focus on what is now known as reinforcement learning in late 1979. We were both at the University of Massachusetts, working on one of the earliest projects to revive the idea that networks of neuronlike adaptive elements might prove to be a promising approach to artificial adaptive intelligence. The project explored the “heterostatic theory of adaptive systems” developed by A. Harry Klopf. Harry’s work was a rich source of ideas, and we were permitted to explore them critically and compare them with the long history of prior work in adaptive systems. Our task became one of teasing the ideas apart and understanding their relationships and relative importance. This continues today, but in 1979 we came to realize that perhaps the simplest of the ideas, which had long been taken for granted, had received surprisingly little attention from a computational perspective. This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a “hedonistic” learning system, or, as we would say now, the idea of reinforcement learning. MIT Press, Cambridge, MA",
+     }
 ]
