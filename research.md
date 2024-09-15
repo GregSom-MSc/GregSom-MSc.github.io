@@ -25,7 +25,9 @@ Here you go, some useful resources related to finance, data... More to arrive so
 
 <div id="resources"></div>
 
+{% raw %}
 <script src="new_scripts.js"></script>
+{% endraw %}
 
 </div>
 
