@@ -26,6 +26,7 @@ Here you go, some useful resources related to finance, data... More to arrive so
 <div id="resources"></div>
 
 <script>
+ 
 fetch('sm_library.json')
     .then(response => response.json()) // Convert the response to JSON
     .then(papers => {
@@ -85,7 +86,7 @@ fetch('sm_library.json')
  
 </script>
 
-  </div>
+</div>
 
 <br>
 <hr><br>
