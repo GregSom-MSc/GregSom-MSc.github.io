@@ -11,17 +11,17 @@ fetch('sm_library.json')
 
             // Add paper title and link
             const titleLink = document.createElement('a');
-            titleLink.href = paper.url;
+            // titleLink.href = paper.url;
             titleLink.target = "_blank";
             titleLink.innerHTML = `<b>${paper.author}</b><br>${paper.title}`;
             paperDiv.appendChild(titleLink);
-
+            <br>
             // Add optional code link if exists
             if (paper.code_url) {
                 const codeLink = document.createElement('a');
                 codeLink.href = paper.code_url;
                 codeLink.target = "_blank";
-                codeLink.innerHTML = `<br>[Code]`;
+                codeLink.innerHTML = `<br>[Explore the Code]`;
                 paperDiv.appendChild(codeLink);
             }
 
