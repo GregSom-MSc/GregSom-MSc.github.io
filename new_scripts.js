@@ -15,7 +15,7 @@ fetch('sm_library.json')
             titleLink.target = "_blank";
             titleLink.innerHTML = `<b>${paper.author}</b><br>${paper.title}`;
             paperDiv.appendChild(titleLink);
-            <br>
+            
             // Add optional code link if exists
             if (paper.code_url) {
                 const codeLink = document.createElement('a');
