@@ -23,42 +23,68 @@ Welcome to the research page. You will find some of the useful resources I've ga
 
 Here you go, some useful resources related to finance, data... More to arrive soon.
 
-- <b>Adamantios Ntakaris et al (2017)</b><br> [Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods](https://arxiv.org/abs/1705.03233)
+<div id="resources"></div>
 
-  **Abstract:**
-  <div style="text-align: justify;font-size: smaller;">
-  Managing the prediction of metrics in high-frequency financial markets is a challenging task. An efficient way is by monitoring the dynamics of a limit order book to identify the information edge. This paper describes the first publicly available benchmark dataset of high-frequency limit order markets for mid-price prediction. We extracted normalized data representations of time series data for five stocks from the NASDAQ Nordic stock market for a time period of ten consecutive days, leading to a dataset of ~4,000,000 time series samples in total. A day-based anchored cross-validation experimental protocol is also provided that can be used as a benchmark for comparing the performance of state-of-the-art methodologies. Performance of baseline approaches are also provided to facilitate experimental comparisons. We expect that such a large-scale dataset can serve as a testbed for devising novel solutions of expert systems for high-frequency limit order book data analysis.
-  </div>
+<script>
+fetch('sm_library.json')
+    .then(response => response.json()) // Convert the response to JSON
+    .then(papers => {
+        const resourcesContainer = document.getElementById("resources");
 
-- <b>Gbenga Ibikunle, Seth Armitage, James Clunie (2016)</b><br> [The Cost of Trading from the Fund Manager's Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2836070)
+        // Loop through the papers and create dynamic content
+        papers.forEach((paper, index) => {
+            // Create container for each paper
+            const paperDiv = document.createElement('div');
+            paperDiv.style.marginBottom = "20px";
 
-  **Abstract:**
-  <div style="text-align: justify;font-size: smaller;">
-  The cost of executing orders could differ from the cost of trades. We estimate the cost of a fund manager’s orders to trade in shares and contracts for differences (CFDs), using data for 2013-15. We compare directly the effective half-spread (EHS) of an order with the EHS that would be inferred using market data, namely the average EHS of trades in the relevant share, and the quoted half-spread. The typical EHS of an order is approximately same as the cost inferred from market data, while the typical cost of CFDs is slightly higher. However, there is wide variation in the cost of orders, and about one third have a negative spread. The cost of orders by value exceeds the inferred cost, mainly because of a small percentage of orders with very large spreads.
-  </div>
+            // Add paper title and link
+            const titleLink = document.createElement('a');
+            titleLink.href = paper.url;
+            titleLink.target = "_blank";
+            titleLink.innerHTML = `<b>${paper.author}</b><br>${paper.title}`;
+            paperDiv.appendChild(titleLink);
 
-- <b>Rónán Gallagher (2020)</b> <br>[The evolving relation between dividends and flexible payouts: A different evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/eufm.12288)
+            // Add optional code link if exists
+            if (paper.code_url) {
+                const codeLink = document.createElement('a');
+                codeLink.href = paper.code_url;
+                codeLink.target = "_blank";
+                codeLink.innerHTML = `<br>[Code]`;
+                paperDiv.appendChild(codeLink);
+            }
 
-  **Abstract:**
-  <div style="text-align: justify;font-size: smaller;">
-  We study payout by UK listed companies during 1993–2018. Regular dividends remain the dominant channel, but flexible payouts (special dividends and repurchases) have grown, and they make total payout more responsive to earnings. Flexible payouts are used to augment regular dividends: few companies pay out by flexible means only, and tests indicate that they augment rather than replace regular dividends. Comparison with US evidence shows that UK companies make greater use of dividends (including specials) in relation to repurchases, and have a greater willingness to change regular dividend per share.
-  </div>
+            // Create "See Abstract" button
+            const abstractButton = document.createElement('button');
+            abstractButton.textContent = "See Abstract";
+            abstractButton.style.marginTop = "10px";
+            abstractButton.onclick = () => {
+                const abstractDiv = document.getElementById(`abstract-${index}`);
+                if (abstractDiv.style.display === "none") {
+                    abstractDiv.style.display = "block";
+                    abstractButton.textContent = "Hide Abstract";
+                } else {
+                    abstractDiv.style.display = "none";
+                    abstractButton.textContent = "See Abstract";
+                }
+            };
+            paperDiv.appendChild(abstractButton);
 
-- <b>Taylor spears (2023)</b> <br>[The use and promises of Machine Learning in financial markets: From mundane practices to complex automated system](https://doi.org/10.1093/oxfordhb/9780197653609.013.6)
+            // Create abstract section (hidden by default)
+            const abstractDiv = document.createElement('div');
+            abstractDiv.id = `abstract-${index}`;
+            abstractDiv.style.display = "none";
+            abstractDiv.style.marginTop = "10px";
+            abstractDiv.innerHTML = `<div style="text-align: justify;font-size: smaller;">${paper.abstract}</div>`;
+            paperDiv.appendChild(abstractDiv);
 
-  **Abstract:**
-  <div style="text-align: justify;font-size: smaller;">
-  In this chapter, we examine the use of machine learning (ML) in financial markets and argue that the adoption of ML into finance is bringing to light new issues that have traditionally fallen outside the purview of the sociology of finance and financial modelling. While quantitative models have traditionally been used in a relatively narrow set of contexts within financial organizations, ML adoption has occurred rapidly on the periphery of the trading floor. The use of ML in more mundane areas of finance creates opportunities for sociologists interested in financial modelling to engage with scholarly work from related fields, such as critical algorithm studies and international political economy. Furthermore, we argue that the use of ML methods may be facilitating a cultural and infrastructural alignment between Big Tech and financial services both through the adoption of open source software within finance and the dependence of ML on large-scale cloud infrastructures. Accordingly, we identify two potential directions for future work on the sociology of financial machine learning: a ‘horizontal’ expansion to account for the ways machine learning is being used across financial institutions, and a ‘vertical’ deepening that investigates the infrastructures upon which ML systems are developed and deployed, and how they are shaping financial institutions and markets.
+            // Append the paper entry to the resources section
+            resourcesContainer.appendChild(paperDiv);
+        });
+    })
+    .catch(error => console.error('Error fetching data:', error));
+ 
+</script>
 
-- <b>Richard S. Sutton and Andrew G. Barto(2018)</b><br>
-  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf)<br>
-  [Code](http://incompleteideas.net/book/code/code2nd.html)<br>
-  [Webpage](http://incompleteideas.net/book/the-book-2nd.html)
-
-  **Teaser: Prologue to the first Edition**
-  <div style="text-align: justify;font-size: smaller;">
-  We first came to focus on what is now known as reinforcement learning in late 1979. We were both at the University of Massachusetts, working on one of the earliest projects to revive the idea that networks of neuronlike adaptive elements might prove to be a promising approach to artificial adaptive intelligence. The project explored the “heterostatic theory of adaptive systems” developed by A. Harry Klopf. Harry’s work was a rich source of ideas, and we were permitted to explore them critically and compare them with the long history of prior work in adaptive systems. Our task became one of teasing the ideas apart and understanding their relationships and relative importance. This continues today, but in 1979 we came to realize that perhaps the simplest of the ideas, which had long been taken for granted, had received surprisingly little attention from a computational perspective. This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a “hedonistic” learning system, or, as we would say now, the idea of reinforcement learning.
-MIT Press, Cambridge, MA
   </div>
 
 <br>
