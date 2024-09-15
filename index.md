@@ -12,3 +12,5 @@ You can find information about my projects, research, and get some interesting r
   <br>
 If you need it, don't hesitate to contact me.
 </div>
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=GregSom-MSc&show_icons=true&theme=radical)
