@@ -11,7 +11,7 @@ fetch('sm_library.json')
 
             // Add paper title and link
             const titleLink = document.createElement('a');
-            // titleLink.href = paper.url;
+            titleLink.href = paper.url;
             titleLink.target = "_blank";
             titleLink.innerHTML = `<b>${paper.author}</b><br>${paper.title}`;
             paperDiv.appendChild(titleLink);
