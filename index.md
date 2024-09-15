@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to my personal website
+## Welcome to my personal website
 
 <div style="text-align: justify;font-size:smaller;">
 Experienced Finance Analyst & Economist with a demonstrated background in macroeconomics, banking, data and financial analysis.
