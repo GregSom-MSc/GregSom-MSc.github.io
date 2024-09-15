@@ -1,0 +1,12 @@
+[
+    {
+        "author": "Adamantios Ntakaris et al (2017)",
+        "title": "Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods",
+        "abstract": "Managing the prediction of metrics in high-frequency financial markets is a challenging task. An efficient way is by monitoring the dynamics of a limit order book to identify the information edge. This paper describes the first publicly available benchmark dataset of high-frequency limit order markets for mid-price prediction. We extracted normalized data representations of time series data for five stocks from the NASDAQ Nordic stock market for a time period of ten consecutive days, leading to a dataset of ~4,000,000 time series samples in total. A day-based anchored cross-validation experimental protocol is also provided that can be used as a benchmark for comparing the performance of state-of-the-art methodologies. Performance of baseline approaches are also provided to facilitate experimental comparisons. We expect that such a large-scale dataset can serve as a testbed for devising novel solutions of expert systems for high-frequency limit order book data analysis."
+    },
+    {
+        "author": "Jane Doe et al (2022)",
+        "title": "Analysis of Stock Market Trends Using Machine Learning Algorithms",
+        "abstract": "This study focuses on the application of machine learning algorithms in predicting stock market trends. It explores the potential of several methods, including support vector machines, random forests, and deep learning, to generate accurate forecasts of stock prices. Using data from the New York Stock Exchange, the study demonstrates the effectiveness of machine learning techniques for financial prediction and offers insights into the best practices for model development and evaluation in this field."
+    }
+]
