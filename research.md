@@ -29,8 +29,6 @@ Here you go, some useful resources related to finance, data... More to arrive so
 <script src="new_scripts.js"></script>
 {% endraw %}
 
-</div>
-
 <br>
 <hr><br>
 **Note:**
