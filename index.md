@@ -14,3 +14,5 @@ If you need it, don't hesitate to contact me.
 </div>
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=GregSom-MSc&show_icons=true&theme=radical)
+
+<iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="100%" height="200px"></iframe>
