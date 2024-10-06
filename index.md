@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f92a3db-f31d-4fba-86db-69e965157c8b)---
+---
 layout: default
 ---
 
