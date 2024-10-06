@@ -12,17 +12,16 @@ If you'd like to get in touch, please use the contact form on the <a href="/cont
  
 <br>
 
-<div style="text-align: justify;font-size:smaller;">
- 
-You can find out more info about setting up your Jekyll theme and webpage, as well as basic usage documentation at [jekyllrb.com](https://jekyllrb.com/).
+<div style="text-align: justify; font-size: smaller;">
+For more information about setting up your own Jekyll theme and webpage, as well as basic documentation, visit <a href="https://jekyllrb.com/" target="_blank">jekyllrb.com</a>.
 
 <br>
 
 Here is the source code for Minima on GitHub:  
-[jekyll/minima](https://github.com/jekyll/minima).
+<a href="https://github.com/jekyll/minima" target="_blank">jekyll/minima</a>.
 
 <br>
 
 You can also find the source code for Jekyll on GitHub:  
-[jekyll/jekyll](https://github.com/jekyll/jekyll).
+<a href="https://github.com/jekyll/jekyll" target="_blank">jekyll/jekyll</a>.
 </div>
