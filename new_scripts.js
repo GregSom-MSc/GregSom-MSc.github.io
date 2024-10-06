@@ -25,7 +25,7 @@ fetch('sm_library.json')
                 const codeLink = document.createElement('a');
                 codeLink.href = paper.code_url;
                 codeLink.target = "_blank";
-                codeLink.innerHTML = `<br><span style="font-size: 12px;">[Explore the Code]</span>`;
+                codeLink.innerHTML = `<br><span style="font-size: 12px;">[Code]</span>`;
                 paperInfoDiv.appendChild(codeLink);
             }
 
