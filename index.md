@@ -5,7 +5,7 @@ layout: default
 ## Welcome to my personal website
 
 <div style="text-align: justify;font-size:smaller;">
-<b>Welcome!</b>b I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh, and a MA in Economic Theory from ITAM, I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions. 
+<b>Welcome!</b> I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh, and a MA in Economic Theory from ITAM, I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions. 
 Whether it’s exploring tech, sustainability, and innovation or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas. 
 <br>
 Feel free to explore my projects, research, and discover valuable resources that I hope will inspire you as much as they do me.
