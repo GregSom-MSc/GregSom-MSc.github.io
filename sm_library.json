@@ -28,10 +28,17 @@
         "code_url": null
     },
     {
-        "author": "Richard S. Sutton and Andrew G. Barto(2018)",
+        "author": "Richard S. Sutton and Andrew G. Barto (2018)",
         "title": "Reinforcement Learning: An Introduction",
         "url": "http://incompleteideas.net/book/RLbook2020.pdf",
         "code_url": "http://incompleteideas.net/book/code/code2nd.html",
         "abstract": "Teaser: Prologue to the first Edition. We first came to focus on what is now known as reinforcement learning in late 1979. We were both at the University of Massachusetts, working on one of the earliest projects to revive the idea that networks of neuronlike adaptive elements might prove to be a promising approach to artificial adaptive intelligence. The project explored the 'heterostatic theory of adaptive systems' developed by A. Harry Klopf. Harry/’s work was a rich source of ideas, and we were permitted to explore them critically and compare them with the long history of prior work in adaptive systems. Our task became one of teasing the ideas apart and understanding their relationships and relative importance. This continues today, but in 1979 we came to realize that perhaps the simplest of the ideas, which had long been taken for granted, had received surprisingly little attention from a computational perspective. This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a hedonistic learning system, or, as we would say now, the idea of reinforcement learning. MIT Press, Cambridge, MA"
+    },
+    {
+        "author": "Cartea, Álvaro and Cohen, Samuel N. and Graumans, Rob and Labyad, Saad and Sánchez-Betancourt, Leandro and van Veldhuijzen, Leon (2024)",
+        "title": "Statistical Predictions of Trading Strategies in Electronic Markets",
+        "url": "https://dx.doi.org/10.2139/ssrn.4442770",
+        "abstract": "We build statistical models to describe how market participants choose the direction, price, and volume of orders. Our dataset, which spans sixteen weeks for four shares traded in Euronext Amsterdam, contains all messages sent to the exchange and includes algorithm identification and member identification. We obtain reliable out-of-sample predictions and report the top features that predict direction, price, and volume of orders sent to the exchange. The coefficients from the fitted models are used to cluster trading behaviour and we find that algorithms registered as Liquidity Providers exhibit the widest range of trading behaviour among dealing capacities. In particular, for the most liquid share in our study, we identify three types of behaviour that we call (i) directional trading, (ii) opportunistic trading, and (iii) market making, and we find that around one third of Liquidity Providers behave as market markers."
+        "code_url": null
     }
 ]
