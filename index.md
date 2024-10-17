@@ -25,7 +25,7 @@ Feel free to explore my projects, research, and discover valuable resources that
 
 <br>
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GregSom-MSc&show_icons=true&theme=calm&random=1" frameborder="0" scrolling="0" width="100%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
+    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="100%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <br>
 <div style="text-align: center;">
