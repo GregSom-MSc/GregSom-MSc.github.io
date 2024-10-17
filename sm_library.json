@@ -40,5 +40,12 @@
         "url": "https://dx.doi.org/10.2139/ssrn.4442770",
         "abstract": "We build statistical models to describe how market participants choose the direction, price, and volume of orders. Our dataset, which spans sixteen weeks for four shares traded in Euronext Amsterdam, contains all messages sent to the exchange and includes algorithm identification and member identification. We obtain reliable out-of-sample predictions and report the top features that predict direction, price, and volume of orders sent to the exchange. The coefficients from the fitted models are used to cluster trading behaviour and we find that algorithms registered as Liquidity Providers exhibit the widest range of trading behaviour among dealing capacities. In particular, for the most liquid share in our study, we identify three types of behaviour that we call (i) directional trading, (ii) opportunistic trading, and (iii) market making, and we find that around one third of Liquidity Providers behave as market markers.",
         "code_url": null
+    },
+    {
+        "author": "Rodolfo Sosa-Garcia (2008)",
+        "title": "Democracy: Freedom and Capitalism",
+        "url": "https://www.researchgate.net/publication/228283745_Democracy_Freedom_and_Capitalism",
+        "abstract": "Democracy (including freedom) is confronting various internal threats, among them the lack of quality of laws; but also they are confronting various external threats, such as terrorism. The paper analyzes Democracy in a broad use based on the concepts of Freedom and Capitalism.",
+        "code_url": null
     }
 ]
