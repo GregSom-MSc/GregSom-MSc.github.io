@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 ---
-## Contact me:
+## Contact me
 
 <style>
     .contact-form {
@@ -37,13 +37,13 @@ title: Contact
         border: none;
         border-radius: 4px;
         background-color: #BBC5AA;
-        color: #0D1F2D;
+        color: #134074;
         cursor: pointer;
         margin-top: 10px;
         align-self: center;
     }
     .contact-form input[type="submit"]:hover {
-        background-color: #134074;
+        background-color: #0D1F2D;
         color: white;
     }
 </style>
