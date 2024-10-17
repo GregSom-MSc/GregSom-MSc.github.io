@@ -7,7 +7,7 @@ layout: default
 <div style="text-align: justify;font-size:smaller;">
 <b>Welcome!</b>
 
-I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh, and a MA in Economic Theory from ITAM, I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
+I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
 <br>
 
