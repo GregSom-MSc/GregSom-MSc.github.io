@@ -37,7 +37,4 @@ Feel free to explore my projects, research, and discover valuable resources that
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="80%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <br>
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GregSom-MSc&show_icons=true&theme=calm" alt="My GitHub Contributions Stats" style="max-width: 600px; margin: auto;">
-</div>
 <br>
