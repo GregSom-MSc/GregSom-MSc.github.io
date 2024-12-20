@@ -17,6 +17,10 @@ Whether it’s exploring tech, sustainability, and innovation or diving into his
 
 Feel free to explore my projects, research, and discover valuable resources that I hope will inspire you as much as they do me.
 
+<br>
+
+<b>If you need it, don't hesitate to contact me. </b>
+
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">
         Don't forget to explore my <strong>Linktree</strong> page here:
@@ -26,10 +30,6 @@ Feel free to explore my projects, research, and discover valuable resources that
         Visit My Linktree
     </a>
 </div>
-
-<br>
-
-<b>If you need it, don't hesitate to contact me. </b>
 
 <br>
 
