@@ -5,7 +5,7 @@ layout: default
 ## Welcome to my personal website
 
 <div style="text-align: justify;font-size:smaller;">
-<h2>Welcome!</h2>
+<h1>Welcome!</h1>
 
 <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
