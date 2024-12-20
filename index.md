@@ -11,6 +11,7 @@ layout: default
     <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
     <br>
+    <br>
 
     Whether it’s exploring tech, sustainability, and innovation or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.
 
