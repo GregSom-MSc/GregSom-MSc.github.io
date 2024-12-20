@@ -5,24 +5,25 @@ layout: default
 
 
 <div style="text-align: justify;font-size:smaller;">
-<h1>My personal website</h1>
-<h3>Welcome!</h3>
+    <h1>My personal website</h1>
+    <h3>Welcome!</h3>
 
-<p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
+    <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
-<br>
+    <br>
 
-Whether it’s exploring tech, sustainability, and innovation or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.
+    Whether it’s exploring tech, sustainability, and innovation or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.
 
-<br>
+    <br>
 
-Feel free to explore my projects, research, and discover valuable resources that I hope will inspire you as much as they do me.
+    Feel free to explore my projects, research, and discover valuable resources that I hope will inspire you as much as they do me.
 
-<br>
+    <br>
 
-<b>If you need it, don't hesitate to contact me. </b>
+    <b>If you need it, don't hesitate to contact me. </b>
 
-<p>
+    <p>
+</div>
 
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">
