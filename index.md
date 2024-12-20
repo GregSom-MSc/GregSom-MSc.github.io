@@ -15,11 +15,11 @@ layout: default
 
     Whether it’s exploring tech, sustainability, and innovation or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.
 
-    <br>
+    <br><br>
 
     Feel free to explore my projects, research, and discover valuable resources that I hope will inspire you as much as they do me.
 
-    <br>
+    <br><br>
 
     <b>If you need it, don't hesitate to contact me. </b>
 
@@ -35,7 +35,7 @@ layout: default
     </a>
 </div>
 
-<br>
+<br><br><br><br>
 
 <div style="text-align: center;">
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="80%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
