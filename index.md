@@ -2,10 +2,11 @@
 layout: default
 ---
 
-## Welcome to my personal website
+
 
 <div style="text-align: justify;font-size:smaller;">
-<h1>Welcome!</h1>
+<h1>My personal website</h1>
+<h3>Welcome!</h3>
 
 <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
@@ -20,6 +21,7 @@ Feel free to explore my projects, research, and discover valuable resources that
 <br>
 
 <b>If you need it, don't hesitate to contact me. </b>
+
 <p>
 
 <div style="text-align: center; margin-top: 20px;">
