@@ -5,9 +5,9 @@ layout: default
 ## Welcome to my personal website
 
 <div style="text-align: justify;font-size:smaller;">
-<b>Welcome!</b>
+<h2>Welcome!</h2>
 
-I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
+<p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. Holding an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
 <br>
 
@@ -20,12 +20,13 @@ Feel free to explore my projects, research, and discover valuable resources that
 <br>
 
 <b>If you need it, don't hesitate to contact me. </b>
+<p>
 
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">
         Don't forget to explore my <strong>Linktree</strong> page here:
     </p>
-    <a href="https://linktr.ee/somniverse" target="_blank" 
+    <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 1em; border-radius: 5px; font-weight: bold;">
         Visit My Linktree
     </a>
