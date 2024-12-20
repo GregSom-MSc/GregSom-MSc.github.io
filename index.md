@@ -23,7 +23,6 @@ layout: default
     <b>If you need it, don't hesitate to contact me. </b>
 
     <p>
-</div>
 
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">
