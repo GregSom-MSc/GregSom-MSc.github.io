@@ -8,7 +8,7 @@ layout: default
     <h1>My personal website</h1>
     <h3>Welcome!</h3>
 
-    <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology.I hold an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
+    <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. I hold an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions.
 
     <br>
     <br>
