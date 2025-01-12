@@ -21,7 +21,7 @@ layout: default
 
     <br><br>
 
-    <b>You can contact me <a href="https://GregSom-MSc.github.io/contact.md">here</a>. </b>
+    <b>You can contact me <a href="https://GregSom-MSc.github.io/contact">here</a>. </b>
 
     <p>
 
