@@ -13,7 +13,7 @@ layout: default
     <br>
     <br>
 
-    Whether it’s exploring new business, tech, sustainability,or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.
+    Whether it’s exploring new business, running, having a nice cup of coffee, or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.
 
     <br><br>
 
