@@ -83,15 +83,15 @@ main {
 
 .social-links a {
     margin: 0 10px;
-    color: #666;
+    color: #D3D3D3;
     text-decoration: none;
 }
 
 .social-links a:hover {
-    color: #333;
+    color: #F0F7FF;
 }
 
 .footer-disclaimer {
     font-size: smaller;
-    color: #666;
+    color: #D3D3D3;
 }
