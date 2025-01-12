@@ -20,7 +20,7 @@ layout: default
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 1em; border-radius: 5px; font-weight: bold;">
-        Visit My Linktree
+        Somniverse
     </a>
 </div>
 
