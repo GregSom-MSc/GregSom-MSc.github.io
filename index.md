@@ -21,13 +21,13 @@ layout: default
 
     <br><br>
 
-    <b>If you need it, don't hesitate to contact me. </b>
+    <b>You can contact me <a href="https://GregSom-MSc.github.io/contact.md">here</a>. </b>
 
     <p>
 
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">
-        Don't forget to explore my <strong>Linktree</strong> page here:
+        Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets:
     </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; font-size: 1em; border-radius: 5px; font-weight: bold;">
