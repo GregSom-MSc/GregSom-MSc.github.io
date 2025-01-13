@@ -63,7 +63,7 @@
         "code_url": null
     },
     {
-        "author": " Thomas H. Cormen, Charles E. Leiserson (Fourth Edition, 2022)",
+        "author": "Thomas H. Cormen, Charles E. Leiserson (Fourth Edition, 2022)",
         "title": "Introduction to Algorithms",
         "url": "https://amzn.to/424YnYC",
         "abstract": "Comprehensive guide to truly understand algorithms, quite known and very appreciated. The new edition includes new chapters on bipartite graph matchings, online algorithms, and machine learning. It also features new exercises and problems as well as recurrence equations, hash tables, and suffix arrays. Nice pseudocode and self-contained chapters, this book balances depth and accessibility, making it an awesome resource for both academics and professionals.",
