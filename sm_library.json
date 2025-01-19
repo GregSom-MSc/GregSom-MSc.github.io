@@ -14,6 +14,13 @@
         "code_url": null
     },
     {
+        "author": "Albert J. Menkveld (2018)",
+        "title": "High-Frequency Trading as Viewed through an Electron Microscope",
+        "url": "https://doi.org/10.2469/faj.v74.n2.1",
+        "abstract": "The electron microscope improved our vision by a factor of 1 million, enabling us to see atoms. In this study, I aim for a similar leap by examining trades executed in nanoseconds, a million times more precise than the oft-used milliseconds. This approach allows us to observe asset reallocations among rapid-fire “tradebots,” including those used by high-frequency traders (HFTs). Some 20% of trades occur in submillisecond clusters, which seem to have no price instability. Although submillisecond trade bursts are costly to non-HFTs in terms of adverse selection, these costs can be avoided.",
+        "code_url": null
+    },
+    {
         "author": "Adamantios Ntakaris et al. (2017)",
         "title": "Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods",
         "url": "https://arxiv.org/abs/1705.03233",
@@ -60,6 +67,13 @@
         "title": "Algorithmic and High-Frequency Trading",
         "url": "https://amzn.to/3PBwFuQ",
         "abstract": "This book combines financial modelling, and practical applications, so you will learn from the start into top-notch financial frontiers. It is a most for learning trading strategies, you will get a really good look into algorithms ecosystems. I really recommend it.",
+        "code_url": null
+    },
+    {
+        "author": "Amos Tversky and Daniel Kahneman (2015)",
+        "title": "Advances in Prospect Theory: Cumulative Representation of Uncertainty",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://psych.fullerton.edu/mbirnbaum/psych466/articles/Tversky_Kahneman_JRU_92.pdf&ved=2ahUKEwiqxKjk_YKLAxVRQEEAHY0LJKwQFnoECBsQAQ&usg=AOvVaw1UOVh7jb1oenH0n9VEcwkN",
+        "abstract": "Direct to the file... We develop a new version of prospect theory that employs cumulative rather than separable decision weights and extends the theory in several respects. This version, called cumulative prospect theory, applies to uncertain as well as to risky prospects with any number of outcomes, and it allows different weighting functions for gains and for losses. Two principles, diminishing sensitivity and loss aversion, are invoked to explain the characteristic curvature of the value function and the weighting functions. A review of the experimental evidence and the results of a new experiment confirm a distinctive fourfold pattern of risk attitudes: risk aversion for gains and risk seeking for losses of high probability; risk seeking for gains and risk aversion for losses of low probability.",
         "code_url": null
     },
     {
