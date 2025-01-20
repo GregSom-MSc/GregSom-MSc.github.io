@@ -10,7 +10,7 @@ permalink: /about/
 <p>Please, feel free to check it often and find the latest content and improvements. </p>
 <b>If you wish to get in touch, ask for any resource or anything, please use the form on the <a href="/contact" style="color: #0056b3; text-decoration: underline;">Contact</a> </b>
  page. I’ll get back to you promptly.</p>
- --
+ ---
 <br>
 
 <p><b>One mode thing:</b> For more information about setting up your own Jekyll theme and webpage, as well as basic documentation, visit <a href="https://jekyllrb.com/" target="_blank">jekyllrb.com</a>. Here is the source code for Minima on GitHub:  
