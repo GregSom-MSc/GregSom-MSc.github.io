@@ -20,8 +20,6 @@ permalink: /about/
 <p>Here is the source code for Minima on GitHub:  
 <a href="https://github.com/jekyll/minima" target="_blank">jekyll/minima</a>.
 
-<br>
-
 You can also find the source code for Jekyll on GitHub:  
 <a href="https://github.com/jekyll/jekyll" target="_blank">jekyll/jekyll</a>.</p>
 </div> 
