@@ -34,9 +34,9 @@ fetch('sm_library.json')
             abstractButton.textContent = "See Abstract";
             abstractButton.style.fontSize = "12px"; // Reduced font size
             abstractButton.style.marginLeft = "10px";
-            abstractButton.style.backgroundColor = #134074; // Green background
+            abstractButton.style.backgroundColor = "#134074"; // Green background
             abstractButton.style.color = "white"; // White text background-color: #134074; color: white;
-            abstractButton.style.cursor = "pointer" // changes to pointer at hover
+            abstractButton.style.cursor = "pointer"; // changes to pointer at hover
             abstractButton.onclick = () => {
                 const abstractDiv = document.getElementById(`abstract-${index}`);
                 if (abstractDiv.style.display === "none") {
