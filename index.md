@@ -27,7 +27,7 @@ layout: default
 <br><br><br>
 
 <div style="text-align: center;">
-    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="80%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
+    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="90%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <hr>
 <br>
