@@ -32,11 +32,13 @@ fetch('sm_library.json')
             // Create "See Abstract" button, aligned to the right
             const abstractButton = document.createElement('button');
             abstractButton.textContent = "See Abstract";
-            abstractButton.style.fontSize = "12px"; // Reduced font size
+            abstractButton.style.fontSize = "11px"; // Reduced font size
             abstractButton.style.marginLeft = "10px";
             abstractButton.style.backgroundColor = "#134074"; // Green background
             abstractButton.style.color = "white"; // White text background-color: #134074; color: white;
             abstractButton.style.cursor = "pointer"; // changes to pointer at hover
+            abstractButton.style.padding = "5px 10px";
+            abstractButton.style.borderRadius = "4px"; // Rounded corners
             abstractButton.onclick = () => {
                 const abstractDiv = document.getElementById(`abstract-${index}`);
                 if (abstractDiv.style.display === "none") {
