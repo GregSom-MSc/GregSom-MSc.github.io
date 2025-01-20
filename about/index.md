@@ -7,7 +7,7 @@ permalink: /about/
  
 <p>I started constructing this webpage based on the basic Jekyll theme and it's continuously evolving. It's fun, I encourage to embark in a similar continuous exercise, without a doubt...🤓</p>
 
-<p>This page is continuously evolving, with regular updates. Feel free to check it often and find the latest content and improvements. </p>
+<p>Please, feel free to check it often and find the latest content and improvements. </p>
 <b>If you wish to get in touch, ask for any resource or anything, please use the form on the <a href="/contact" style="color: #0056b3; text-decoration: underline;">Contact</a> </b>
  page. I’ll get back to you promptly.</p>
  
