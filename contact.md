@@ -59,6 +59,6 @@ title: Contact
         <label for="message">Message</label>
         <textarea id="message" name="message">How can I help you?</textarea><br>
         <br>
-        <input type="submit" value="Send" style="font-weight: bold;>
+        <input type="submit" value="Send" style="font-weight: bold;">
     </form>
 </div>
