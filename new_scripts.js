@@ -34,6 +34,7 @@ fetch('sm_library.json')
             abstractButton.textContent = "See Abstract";
             abstractButton.style.fontSize = "12px"; // Reduced font size
             abstractButton.style.marginLeft = "10px";
+            abstractButton.style.color = "white"; // White text
             abstractButton.onclick = () => {
                 const abstractDiv = document.getElementById(`abstract-${index}`);
                 if (abstractDiv.style.display === "none") {
