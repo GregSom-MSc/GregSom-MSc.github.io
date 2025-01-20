@@ -15,7 +15,7 @@ layout: default
     <p>Feel free to explore my projects, research, and discover some pretty valuable resources that I hope will inspire you as much as they do me. </p>
     
     <p><b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me</a>. </b> </p>
-
+<hr>
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
@@ -23,11 +23,12 @@ layout: default
         Somniverse
     </a>
 </div>
-
-<br><br><br><br>
+<hr>
+<br><br><br>
 
 <div style="text-align: center;">
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="80%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
+<hr>
 <br>
 <br>
