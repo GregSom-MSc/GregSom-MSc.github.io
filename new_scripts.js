@@ -52,8 +52,7 @@ fetch('sm_library.json')
             const abstractDiv = document.createElement('div');
             abstractDiv.id = `abstract-${index}`;
             abstractDiv.style.display = "none";
-            abstractDiv.style.marginTop = "10px";
-            //abstractDiv.style.marginBottom = "20px"; // Add space below the abstract
+            abstractDiv.style.marginTop = "10px";//abstractDiv.style.marginBottom = "20px"; // Add space below the abstract
             abstractDiv.innerHTML = `<div style="text-align: justify; font-size: smaller;">${paper.abstract}</div>`;
 
             // Append the title, author, and button to the container
