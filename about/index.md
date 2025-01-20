@@ -13,13 +13,7 @@ permalink: /about/
  
 <br>
 
-<p>For more information about setting up your own Jekyll theme and webpage, as well as basic documentation, visit <a href="https://jekyllrb.com/" target="_blank">jekyllrb.com</a>.</p>
-
-<br>
-
-<p>Here is the source code for Minima on GitHub:  
-<a href="https://github.com/jekyll/minima" target="_blank">jekyll/minima</a>.
-
-You can also find the source code for Jekyll on GitHub:  
+<p><b>One mode thing:</b> For more information about setting up your own Jekyll theme and webpage, as well as basic documentation, visit <a href="https://jekyllrb.com/" target="_blank">jekyllrb.com</a>. Here is the source code for Minima on GitHub:  
+<a href="https://github.com/jekyll/minima" target="_blank">jekyll/minima</a>. You can also find the source code for Jekyll on GitHub:  
 <a href="https://github.com/jekyll/jekyll" target="_blank">jekyll/jekyll</a>.</p>
 </div> 
