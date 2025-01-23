@@ -49,7 +49,7 @@ title: Contact
 </style>
 
 <div class="contact-form">
-    <form action="mail.php" method="post">
+    <form action="process.php" method="post">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name"> <br>
 
