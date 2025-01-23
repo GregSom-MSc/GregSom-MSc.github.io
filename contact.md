@@ -49,7 +49,7 @@ title: Contact
 </style>
 
 <div class="contact-form">
-    <form action="process.php" method="post">
+    <form action=["process.php](https://formspree.io/f/mwpvkwde) method="POST">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name"> <br>
 
@@ -60,5 +60,8 @@ title: Contact
         <textarea id="message" name="message">How can I help you?</textarea><br>
         <br>
         <input type="submit" value="Send" style="font-weight: bold;">
+
+        <p id="success-message">Thank you for your message!</p>
+            
     </form>
 </div>
