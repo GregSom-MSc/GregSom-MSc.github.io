@@ -65,11 +65,11 @@ title: Contact
 </div>
 
 
-<script>
+<script defer>
   function clearForm() {
     document.getElementById("name").value = "";
     document.getElementById("email").value = "";
     document.getElementById("message").value = "";
-    return true; // Allow form submission
+    return true;
   }
 </script>
