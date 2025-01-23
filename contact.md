@@ -49,7 +49,7 @@ title: Contact
 </style>
 
 <div class="contact-form">
-    <form action="https://formspree.io/f/mwpvkwde" method="POST" onsubmit="return clearForm()">
+    <form action="https://formspree.io/f/mwpvkwde" method="POST">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name"> <br>
 
@@ -65,11 +65,3 @@ title: Contact
 </div>
 
 
-<script defer>
-  function clearForm() {
-    document.getElementById("name").value = "";
-    document.getElementById("email").value = "";
-    document.getElementById("message").value = "";
-    return true;
-  }
-</script>
