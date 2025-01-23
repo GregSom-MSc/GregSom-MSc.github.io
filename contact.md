@@ -36,15 +36,15 @@ title: Contact
         padding: 10px;
         border: none;
         border-radius: 4px;
-        background-color: #BBC5AA;
-        color: #134074;
+        background-color: #134074;
+        color: white;
         cursor: pointer;
         margin-top: 10px;
         align-self: center;
     }
     .contact-form input[type="submit"]:hover {
-        background-color: #0D1F2D;
-        color: white;
+        background-color: ##BBC5AA;
+        color: #134074;
     }
 </style>
 
