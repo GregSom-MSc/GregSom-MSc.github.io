@@ -8,13 +8,16 @@ layout: default
     <h1>My personal website</h1>
     <h3>Welcome!</h3>
 
-    <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. I hold an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and a MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM), I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions. </p>
+    <p>I’m a Finance and Economist Analyst with a deep interest in data science and technology. I hold an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and an MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM). I’m driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions. </p>
 
-    <p>Whether it’s exploring new business, running, having a nice cup of coffee, or diving into history, travel, and aquascaping, I love learning and continuously exchanging new ideas.</p>
+    <p>Whether it’s exploring new business, running, having a nice cup of coffee, or diving into history, I love learning and continuously exchanging new ideas.</p>
 
-    <p>Feel free to explore my projects, research, and discover some pretty valuable resources that I hope will inspire you as much as they do me. </p>
+    <p>I've been quite occupied during these last months, but still love aquascaping, my favorite hobby. I will restart it as soon as I find a proper place to do it. 
+
+    <p>Feel free to explore my projects, readings and research. I hope you will discover some pretty valuable resources that I hope will inspire you as much as they do me. </p>
     
     <p><b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me</a>. </b> </p>
+    
 <hr>
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
