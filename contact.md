@@ -49,7 +49,7 @@ title: Contact
 </style>
 
 <div class="contact-form">
-    <form action="https://formspree.io/f/mwpvkwde" method="POST" onsubmit="return clearForm()>
+    <form action="https://formspree.io/f/mwpvkwde" method="POST" onsubmit="return clearForm()">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name"> <br>
 
