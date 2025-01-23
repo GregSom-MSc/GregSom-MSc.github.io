@@ -49,7 +49,7 @@ title: Contact
 </style>
 
 <div class="contact-form">
-    <form action="process.php](https://formspree.io/f/mwpvkwde" method="POST">
+    <form action="https://formspree.io/f/mwpvkwde" method="POST">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name"> <br>
 
