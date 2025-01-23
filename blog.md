@@ -4,9 +4,11 @@ layout: default
 
 # Blog
 
-Hang on, Im working on this!
+Hang on, I'm working on this!
 
-<p>Check out my latest blog posts on technology, finance, and more at my Ghost blog:</p>
+📣 ✍️ 📓
+
+<p>Check out my latest blog posts on technology, finance, and more:</p>
 <br>
 <div style="text-align: center;">
     <a href="https://gsb-gregsomblog.ghost.io" target="_blank"
