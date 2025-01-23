@@ -50,7 +50,7 @@ title: Contact
 
 <div class="contact-form">
     <form>
-        <label for="name">Name</label>
+        <label for="name">Your Name</label>
         <input type="text" id="name" name="name"> <br>
 
         <label for="email">Your Email address</label>
