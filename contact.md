@@ -60,8 +60,6 @@ title: Contact
         <textarea id="message" name="message">How can I help you?</textarea><br>
         <br>
         <input type="submit" value="Send" style="font-weight: bold;">
-
-        <p id="success-message">Thank you for your message!</p>
             
     </form>
 </div>
