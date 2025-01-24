@@ -1,0 +1,30 @@
+[
+    {
+        "author": "Joseph Simonian (2024)",
+        "title": "Computational Global Macro: Game Theory, Machine Learning, And Causal Inference",
+        "url": "https://amzn.to/4g9gFex",
+        "abstract": "I really believe that this book will quickly become an essential resource for strategic analysts seeking to move beyond speculative assessments of geopolitical risks and interactions. While common sense remains a foundational principle, the use of advanced quantitative tools can illuminate patterns and reveal new perspectives, offering valuable insights for informed decision-making.",
+        "code_url": null
+    },
+    {
+        "author": "Richard Sutton and Andrew Barto (2018)",
+        "title": "Reinforcement Learning: An Introduction",
+        "url": "http://incompleteideas.net/book/RLbook2020.pdf",
+        "code_url": "http://incompleteideas.net/book/code/code2nd.html",
+        "abstract": "Teaser: Prologue to the first Edition. We first came to focus on what is now known as reinforcement learning in late 1979. We were both at the University of Massachusetts, working on one of the earliest projects to revive the idea that networks of neuronlike adaptive elements might prove to be a promising approach to artificial adaptive intelligence. The project explored the 'heterostatic theory of adaptive systems' developed by A. Harry Klopf. Harry/’s work was a rich source of ideas, and we were permitted to explore them critically and compare them with the long history of prior work in adaptive systems. Our task became one of teasing the ideas apart and understanding their relationships and relative importance. This continues today, but in 1979 we came to realize that perhaps the simplest of the ideas, which had long been taken for granted, had received surprisingly little attention from a computational perspective. This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a hedonistic learning system, or, as we would say now, the idea of reinforcement learning."
+    },
+    {
+        "author": "Álvaro Cartea, Sebastian Jaimungal and Jose Penalva (2015)",
+        "title": "Algorithmic and High-Frequency Trading",
+        "url": "https://amzn.to/3PBwFuQ",
+        "abstract": "This book combines financial modelling, and practical applications, so you will learn from the start into top-notch financial frontiers. It is a most for learning trading strategies, you will get a really good look into algorithms ecosystems. I really recommend it.",
+        "code_url": null
+    },
+    {
+        "author": "Thomas H. Cormen, Charles E. Leiserson (Fourth Edition, 2022)",
+        "title": "Introduction to Algorithms",
+        "url": "https://amzn.to/424YnYC",
+        "abstract": "Comprehensive guide to truly understand algorithms, quite known and very appreciated. The new edition includes new chapters on bipartite graph matchings, online algorithms, and machine learning. It also features new exercises and problems as well as recurrence equations, hash tables, and suffix arrays. Nice pseudocode and self-contained chapters, this book balances depth and accessibility, making it an awesome resource for both academics and professionals.",
+        "code_url": null
+    }
+]
