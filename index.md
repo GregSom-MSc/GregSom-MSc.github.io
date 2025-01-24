@@ -7,7 +7,7 @@ layout: default
 <div style="text-align: justify;font-size:smaller; margin-bottom: 20px;">
     <h1>My personal website</h1>
     <h3>Welcome!</h3>
-</div>
+
     <p>I'm a Finance and Economist Analyst with a deep interest in data science and technology, driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions. I hold an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and an MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM). With experience in private consulting, I am transitioning into quantitative finance roles. I am also actively exploring entrepreneurial opportunities within the Fintech sector. My focus includes exploring predictive modeling, big data analytics, and AI solutions for financial markets. I am eager to contribute my skills to the financial sector, in both research or applied roles.</p>
 
     <p>Whether it’s exploring new business, running, having a nice cup of coffee, or diving into history, I love learning and continuously exchanging new ideas.</p>
@@ -34,5 +34,3 @@ layout: default
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="90%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <hr>
-<br>
-<br>
