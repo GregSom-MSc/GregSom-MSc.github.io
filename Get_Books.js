@@ -34,7 +34,7 @@ fetch('sm_Books.json')
             abstractButton.textContent = "Summary";
             abstractButton.style.fontSize = "10px"; // Reduced font size
             abstractButton.style.marginLeft = "10px";
-            abstractButton.style.backgroundColor = "#13315C"; // Darker blue background, background-color, see comparison: #134074 #13315C
+            abstractButton.style.backgroundColor = "#0E2442"; // Darker blue background, background-color, see comparison: #134074 #0E2442
             abstractButton.style.color = "white"; // White text ; color: white;
             abstractButton.style.cursor = "pointer"; // changes to pointer at hover
             abstractButton.style.padding = "10px 20px";
