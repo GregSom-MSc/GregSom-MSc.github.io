@@ -29,42 +29,42 @@ fetch('sm_Books.json')
                 paperInfoDiv.appendChild(codeLink);
             }
 
-            // Create "See Abstract" button, aligned to the right
-            const abstractButton = document.createElement('button');
-            abstractButton.textContent = "Summary";
-            abstractButton.style.fontSize = "10px"; // Reduced font size
-            abstractButton.style.marginLeft = "10px";
-            abstractButton.style.backgroundColor = "#0E2442"; // Darker blue background, background-color, see comparison: #134074 #0E2442
-            abstractButton.style.color = "white"; // White text ; color: white;
-            abstractButton.style.cursor = "pointer"; // changes to pointer at hover
-            abstractButton.style.padding = "10px 20px";
-            abstractButton.style.borderRadius = "5px"; // Rounded corners
-            abstractButton.onclick = () => {
-                const abstractDiv = document.getElementById(`abstract-${index}`);
-                if (abstractDiv.style.display === "none") {
-                    abstractDiv.style.display = "block";
-                    abstractButton.textContent = "Hide Summary";
+            // Create "See summary" button, aligned to the right
+            const summaryButton = document.createElement('button');
+            summaryButton.textContent = "Summary";
+            summaryButton.style.fontSize = "10px"; // Reduced font size
+            summaryButton.style.marginLeft = "10px";
+            summaryButton.style.backgroundColor = "#0E2442"; // Darker blue background, background-color, see comparison: #134074 #0E2442
+            summaryButton.style.color = "white"; // White text ; color: white;
+            summaryButton.style.cursor = "pointer"; // changes to pointer at hover
+            summaryButton.style.padding = "10px 20px";
+            summaryButton.style.borderRadius = "5px"; // Rounded corners
+            summaryButton.onclick = () => {
+                const summaryDiv = document.getElementById(`summary-${index}`);
+                if (summaryDiv.style.display === "none") {
+                    summaryDiv.style.display = "block";
+                    summaryButton.textContent = "Hide Summary";
                 } else {
-                    abstractDiv.style.display = "none";
-                    abstractButton.textContent = "Summary";
+                    summaryDiv.style.display = "none";
+                    summaryButton.textContent = "Summary";
                 }
             };
 
-            // Create abstract section (hidden by default)
-            const abstractDiv = document.createElement('div');
-            abstractDiv.id = `abstract-${index}`;
-            abstractDiv.style.display = "none";
-            abstractDiv.style.marginTop = "10px";
-            abstractDiv.style.marginBottom = "20px"; // Add space below the abstract
-            abstractDiv.innerHTML = `<div style="text-align: justify; font-size: smaller; max-width: 70%;">${paper.abstract}</div>`;
+            // Create summary section (hidden by default)
+            const summaryDiv = document.createElement('div');
+            summaryDiv.id = `summary-${index}`;
+            summaryDiv.style.display = "none";
+            summaryDiv.style.marginTop = "10px";
+            summaryDiv.style.marginBottom = "20px"; // Add space below the summary
+            summaryDiv.innerHTML = `<div style="text-align: justify; font-size: smaller; max-width: 80%;">${paper.summary}</div>`;
 
             // Append the title, author, and button to the container
             paperDiv.appendChild(paperInfoDiv);
-            paperDiv.appendChild(abstractButton);
+            paperDiv.appendChild(summaryButton);
 
-            // Append the abstract after the main container
+            // Append the summary after the main container
             resourcesContainer.appendChild(paperDiv);
-            resourcesContainer.appendChild(abstractDiv);
+            resourcesContainer.appendChild(summaryDiv);
         });
     })
     .catch(error => console.error('Error fetching data:', error));

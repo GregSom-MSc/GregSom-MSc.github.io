@@ -56,7 +56,7 @@ fetch('sm_library.json')
             abstractDiv.style.display = "none";
             abstractDiv.style.marginTop = "10px";
             abstractDiv.style.marginBottom = "20px"; // Add space below the abstract
-            abstractDiv.innerHTML = `<div style="text-align: justify; font-size: smaller; max-width: 70%;">${paper.abstract}</div>`;
+            abstractDiv.innerHTML = `<div style="text-align: justify; font-size: smaller; max-width: 0%;">${paper.abstract}</div>`;
 
             // Append the title, author, and button to the container
             paperDiv.appendChild(paperInfoDiv);
