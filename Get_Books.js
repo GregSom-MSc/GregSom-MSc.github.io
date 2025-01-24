@@ -31,7 +31,7 @@ fetch('sm_Books.json')
 
             // Create "See Abstract" button, aligned to the right
             const abstractButton = document.createElement('button');
-            abstractButton.textContent = "See Abstract";
+            abstractButton.textContent = "Summary";
             abstractButton.style.fontSize = "9px"; // Reduced font size
             abstractButton.style.marginLeft = "10px";
             abstractButton.style.backgroundColor = "#134074"; // Green background
@@ -43,10 +43,10 @@ fetch('sm_Books.json')
                 const abstractDiv = document.getElementById(`abstract-${index}`);
                 if (abstractDiv.style.display === "none") {
                     abstractDiv.style.display = "block";
-                    abstractButton.textContent = "Hide Abstract";
+                    abstractButton.textContent = "Hide Summary";
                 } else {
                     abstractDiv.style.display = "none";
-                    abstractButton.textContent = "See Abstract";
+                    abstractButton.textContent = "See Summary";
                 }
             };
 
