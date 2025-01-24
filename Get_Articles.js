@@ -11,6 +11,7 @@ fetch('sm_library.json')
             paperDiv.style.justifyContent = "space-between";
             paperDiv.style.alignItems = "center";
             paperDiv.style.marginBottom = "20px";
+            paperDiv.style.border-bottom = "1px solid #ccc";
 
             // Add paper title and author
             const paperInfoDiv = document.createElement('div');
