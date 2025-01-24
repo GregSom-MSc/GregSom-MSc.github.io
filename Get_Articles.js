@@ -31,11 +31,11 @@ fetch('sm_library.json')
 
             // Create "See Abstract" button, aligned to the right
             const abstractButton = document.createElement('button');
-            abstractButton.textContent = "See Abstract";
-            abstractButton.style.fontSize = "9px"; // Reduced font size
+            abstractButton.textContent = "Abstract";
+            abstractButton.style.fontSize = "10px"; // Reduced font size
             abstractButton.style.marginLeft = "10px";
-            abstractButton.style.backgroundColor = "#134074"; // Green background
-            abstractButton.style.color = "white"; // White text background-color: #134074; color: white;
+            abstractButton.style.backgroundColor = "#134074"; // Lighter blue background, background-color, see comparison: #134074 #13315C
+            abstractButton.style.color = "white"; // White text
             abstractButton.style.cursor = "pointer"; // changes to pointer at hover
             abstractButton.style.padding = "10px 20px";
             abstractButton.style.borderRadius = "5px"; // Rounded corners
@@ -46,7 +46,7 @@ fetch('sm_library.json')
                     abstractButton.textContent = "Hide Abstract";
                 } else {
                     abstractDiv.style.display = "none";
-                    abstractButton.textContent = "See Abstract";
+                    abstractButton.textContent = "Abstract";
                 }
             };
 
