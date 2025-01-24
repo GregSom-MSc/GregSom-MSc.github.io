@@ -13,13 +13,6 @@
         "abstract": "This paper examines a trade execution game for two large traders in a generalized price impact model. We incorporate a stochastic and sequentially dependent factor that exogenously affects the market price into financial markets. Our model accounts for how strategic and environmental uncertainties affect the large traders’ execution strategies. We formulate an expected utility maximization problem for two large traders as a Markov game model. Applying the backward induction method of dynamic programming, we provide an explicit closed-form execution strategy at a Markov perfect equilibrium. Our theoretical results reveal that the execution strategy generally lies in a dynamic and non-randomized class; it becomes deterministic if the Markovian environment is also deterministic. In addition, our simulation-based numerical experiments suggest that the execution strategy captures various features observed in financial markets.",
         "code_url": null
     },
-          {
-        "author": "Joseph Simonian (2024)",
-        "title": "Computational Global Macro: Game Theory, Machine Learning, And Causal Inference",
-        "url": "https://amzn.to/4g9gFex",
-        "abstract": "I really believe that this book will quickly become an essential resource for strategic analysts seeking to move beyond speculative assessments of geopolitical risks and interactions. While common sense remains a foundational principle, the use of advanced quantitative tools can illuminate patterns and reveal new perspectives, offering valuable insights for informed decision-making.",
-        "code_url": null
-    },
     {
         "author": "Albert J. Menkveld (2018)",
         "title": "High-Frequency Trading as Viewed through an Electron Microscope",
@@ -56,13 +49,6 @@
         "code_url": null
     },
     {
-        "author": "Richard Sutton and Andrew Barto (2018)",
-        "title": "Reinforcement Learning: An Introduction",
-        "url": "http://incompleteideas.net/book/RLbook2020.pdf",
-        "code_url": "http://incompleteideas.net/book/code/code2nd.html",
-        "abstract": "Teaser: Prologue to the first Edition. We first came to focus on what is now known as reinforcement learning in late 1979. We were both at the University of Massachusetts, working on one of the earliest projects to revive the idea that networks of neuronlike adaptive elements might prove to be a promising approach to artificial adaptive intelligence. The project explored the 'heterostatic theory of adaptive systems' developed by A. Harry Klopf. Harry/’s work was a rich source of ideas, and we were permitted to explore them critically and compare them with the long history of prior work in adaptive systems. Our task became one of teasing the ideas apart and understanding their relationships and relative importance. This continues today, but in 1979 we came to realize that perhaps the simplest of the ideas, which had long been taken for granted, had received surprisingly little attention from a computational perspective. This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a hedonistic learning system, or, as we would say now, the idea of reinforcement learning."
-    },
-    {
         "author": "Álvaro Cartea et al. (2024)",
         "title": "Statistical Predictions of Trading Strategies in Electronic Markets",
         "url": "https://dx.doi.org/10.2139/ssrn.4442770",
@@ -70,24 +56,10 @@
         "code_url": null
     },
     {
-        "author": "Álvaro Cartea, Sebastian Jaimungal and Jose Penalva (2015)",
-        "title": "Algorithmic and High-Frequency Trading",
-        "url": "https://amzn.to/3PBwFuQ",
-        "abstract": "This book combines financial modelling, and practical applications, so you will learn from the start into top-notch financial frontiers. It is a most for learning trading strategies, you will get a really good look into algorithms ecosystems. I really recommend it.",
-        "code_url": null
-    },
-    {
         "author": "Amos Tversky and Daniel Kahneman (2015)",
         "title": "Advances in Prospect Theory: Cumulative Representation of Uncertainty",
         "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://psych.fullerton.edu/mbirnbaum/psych466/articles/Tversky_Kahneman_JRU_92.pdf&ved=2ahUKEwiqxKjk_YKLAxVRQEEAHY0LJKwQFnoECBsQAQ&usg=AOvVaw1UOVh7jb1oenH0n9VEcwkN",
         "abstract": "Direct to the file... We develop a new version of prospect theory that employs cumulative rather than separable decision weights and extends the theory in several respects. This version, called cumulative prospect theory, applies to uncertain as well as to risky prospects with any number of outcomes, and it allows different weighting functions for gains and for losses. Two principles, diminishing sensitivity and loss aversion, are invoked to explain the characteristic curvature of the value function and the weighting functions. A review of the experimental evidence and the results of a new experiment confirm a distinctive fourfold pattern of risk attitudes: risk aversion for gains and risk seeking for losses of high probability; risk seeking for gains and risk aversion for losses of low probability.",
-        "code_url": null
-    },
-    {
-        "author": "Thomas H. Cormen, Charles E. Leiserson (Fourth Edition, 2022)",
-        "title": "Introduction to Algorithms",
-        "url": "https://amzn.to/424YnYC",
-        "abstract": "Comprehensive guide to truly understand algorithms, quite known and very appreciated. The new edition includes new chapters on bipartite graph matchings, online algorithms, and machine learning. It also features new exercises and problems as well as recurrence equations, hash tables, and suffix arrays. Nice pseudocode and self-contained chapters, this book balances depth and accessibility, making it an awesome resource for both academics and professionals.",
         "code_url": null
     },
     {
