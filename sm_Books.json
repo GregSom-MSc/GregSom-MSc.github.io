@@ -26,7 +26,7 @@
         "url": "https://amzn.to/4az7Tpe",
         "abstract": "Excellent introductory guide for everyone interested in dynamic programming, reinforcement learning and control theory. Chapter 6 was updated and includes more on one-step and multistep lookahead methods, parametric approximation architectures, neural networks, rollout, and Monte Carlo tree search. You can enhance the reading with lots of readily online materials.",
         "code_url": null
-    }
+    },
     {
         "author": "Thomas H. Cormen, Charles E. Leiserson (Fourth Edition, 2022)",
         "title": "Introduction to Algorithms",
