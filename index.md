@@ -14,7 +14,7 @@ layout: default
 
     <p>Whether it’s exploring new business, running, having a nice cup of coffee, or diving into history, I love learning and continuously exchanging new ideas.</p>
 
-    <p>I've been quite occupied during these last months, but still love aquascaping, my favorite hobby. I will restart it as soon as I find a proper place to do it.</p>
+    <p>I've been quite busy with my projects during these last months, but still love aquascaping, my favorite hobby. I will restart it as soon as I find a proper place to do it.</p>
 
     <p>Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources. </p>
     
