@@ -21,6 +21,13 @@
         "code_url": null
     },
     {
+        "author": "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (2020)",
+        "title": "Mathematics for Machine Learning",
+        "url": "https://t.co/rn9Xzh7mg1",
+        "summary": "The URL will take you to a PDF free copy. This textbook introduces some essential mathematical concepts like linear algebra, matrix decompositions, probability, and optimization, in quite simple terms. It derives four key machine learning methods—linear regression, PCA, Gaussian mixture models, and support vector machines—using these concepts. It is suitable to first learners, as it focuses on building intuition and practical experience. The examples, exercises, and programming tutorials can be found on the book's website.",
+        "code_url": null
+    },
+    {
         "author": "Dimitri P. Bertsekas (2017)",
         "title": "Dynamic Programming and Optimal Control",
         "url": "https://amzn.to/4az7Tpe",
