@@ -40,5 +40,12 @@
         "url": "https://amzn.to/424YnYC",
         "summary": "Comprehensive guide to truly understand algorithms, quite known and very appreciated. The new edition includes new chapters on bipartite graph matchings, online algorithms, and machine learning. It also features new exercises and problems as well as recurrence equations, hash tables, and suffix arrays. Nice pseudocode and self-contained chapters, this book balances depth and accessibility, making it an awesome resource for both academics and professionals.",
         "code_url": null
+    },
+        {
+        "author": "Allen B. Downey (2021)",
+        "title": "Data Structures and Information Retrieval in Python",
+        "url": "https://allendowney.github.io/DSIRP/#",
+        "summary": "This is a hands-on resource to learn algorithms and information retrieval using Python. It uses a search engine as example, exploring the Crawler, Indexer, and the Retriever, with each data structure first presented in Python, then in Redis. runs in Colab!",
+        "code_url": null
     }
 ]
