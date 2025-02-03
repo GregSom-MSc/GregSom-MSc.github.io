@@ -22,7 +22,9 @@ title: Contact
         margin-bottom: 5px;
     }
     .contact-form input[type="text"],
+    
     .contact-form input[type="email"],
+    
     .contact-form textarea {
         width: 100%;
         padding: 10px;
@@ -59,7 +61,7 @@ title: Contact
         <label for="message">Message</label>
         <textarea id="message" name="message"></textarea><br>
         <br>
-        <input type="submit" value="Send" style="font-weight: bold;">
+        <input type="submit" value="Send" >
             
     </form>
 </div>
