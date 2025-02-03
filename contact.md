@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 ---
-## Contact me
+# Contact me
 
 <style>
     .contact-form {
