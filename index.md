@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-    <h1>My personal website</h1>
+   
 <div style="text-align: justify;font-size:smaller; margin-bottom: 20px;">
-
+    <h1>My personal website</h1>
     <h3>Welcome!</h3>
 
     <p>I'm a Finance and Economist Analyst with a deep interest in data science and technology, driven by curiosity and a passion for innovation, sustainability, and cutting-edge solutions. I hold an MSc in Finance, Technology, and Policy from the University of Edinburgh Business School, and an MA in Economic Theory from the Instituto Tecnológico Autónomo de México (ITAM). With experience in private consulting, I am transitioning into quantitative finance roles.</p>
