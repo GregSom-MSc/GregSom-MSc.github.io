@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-# About this Project
-<div style="text-align: justify; font-size: smaller;">
 
+<div style="text-align: justify; font-size: smaller;">
+<h1>About this Project</h1>
 <p>I started constructing this webpage based on the basic Jekyll theme and it's continuously evolving. It's fun, I encourage you  to embark in a similar continuous exercise, without a doubt...🤓</p>
 
 <p>Please, feel free to check it often and find the latest content and improvements. </p>
