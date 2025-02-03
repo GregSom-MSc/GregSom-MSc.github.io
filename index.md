@@ -22,7 +22,7 @@ layout: default
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
-       style="display: inline-block; padding: 10px 20px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1em; border-radius: 5px; font-weight: bold;">
+       style="display: inline-block; padding: 15px 25px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1.3em; border-radius: 5px; font-weight: bold;">
         Somniverse
     </a>
 </div>
