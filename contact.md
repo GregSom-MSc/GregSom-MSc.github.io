@@ -61,7 +61,7 @@ title: Contact
         <label for="message">Message</label>
         <textarea id="message" name="message"></textarea><br>
         <br>
-        <input type="submit" value="Send" >
+        <input type="submit" value="Send it! I'll reply promptly! 😊" >
             
     </form>
 </div>
