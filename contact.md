@@ -35,7 +35,7 @@ title: Contact
     }
     .contact-form input[type="submit"] {
         width: 100%;
-        padding: 10px;
+        padding: 15px;
         border: none;
         border-radius: 4px;
         background-color: #134074;
