@@ -83,7 +83,7 @@ main {
 
 .site-nav a.active {    /* This is the code that changes the color of the active page, yeah!  */
     font-weight: bold;
-    color: #FFFFFF;  /* Adjust color as needed */
+    color: #FFFFFF; 
     text-decoration: underline;
     background-color: #3c3c3c;
     padding: 5px 12px;
