@@ -88,6 +88,7 @@ main {
     background-color: #13315C;
     padding: 10px 25px;
     border-radius: 5px;
+    margin-bottom: -5px;
 }
 
 .social-links a {
