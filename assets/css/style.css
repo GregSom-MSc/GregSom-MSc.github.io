@@ -55,8 +55,7 @@ nav ul li a {
 }
 
 main {
-    padding: 10px;
-    padding-bottom: 5px;
+    padding: 10px 10px 5px 10px;
     width: 100%;
     max-width: 800px;
 }
