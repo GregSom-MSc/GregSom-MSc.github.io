@@ -109,7 +109,7 @@ main {
 
 .research-section {
     background-color: #f8f9fa; /* Light background for contrast */
-    padding: 20px;
+    padding: 10px 5px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     max-width: 600px;
@@ -120,7 +120,7 @@ main {
     font-size: 1.8em;
     color: #134074; /* Accent color */
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     text-align: center; /* Center title */
 }
 
