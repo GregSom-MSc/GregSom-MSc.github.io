@@ -121,11 +121,11 @@ main {
     color: #333; /* Accent color */
     font-weight: bold;
     margin-bottom: 5px;
-    text-align: center; /* Center title */
+    text-align: left; /*  title to the left */
 }
 
 .research-list {
-    list-style: none; /* Remove default bullets */
+    list-style: none; /* No bullets */
     padding: 0;
     margin: 0;
 }
