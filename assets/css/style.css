@@ -118,7 +118,7 @@ main {
 
 .section-title {
     font-size: 1.8em;
-    color: #134074; /* Accent color */
+    color: black; /* Accent color */
     font-weight: bold;
     margin-bottom: 5px;
     text-align: center; /* Center title */
