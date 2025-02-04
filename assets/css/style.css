@@ -106,3 +106,43 @@ main {
     font-size: smaller;
     color: #D3D3D3;
 }
+
+.research-section {
+    background-color: #f8f9fa; /* Light background for contrast */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    max-width: 600px;
+    margin: 20px auto; /* Centered layout */
+}
+
+.section-title {
+    font-size: 1.8em;
+    color: #134074; /* Accent color */
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center; /* Center title */
+}
+
+.research-list {
+    list-style: none; /* Remove default bullets */
+    padding: 0;
+    margin: 0;
+}
+
+.research-list li {
+    margin-bottom: 10px; /* Add spacing between items */
+}
+
+.research-list a {
+    color: #134074; /* Link color */
+    font-size: 1.1em;
+    text-decoration: none; /* Remove underline */
+    border-bottom: 2px solid transparent; /* Subtle hover effect base */
+    transition: all 0.3s ease; /* Smooth transitions */
+}
+
+.research-list a:hover {
+    border-bottom: 2px solid #134074; /* Underline on hover */
+    color: #0b2545; /* Slightly darker hover color */
+}
