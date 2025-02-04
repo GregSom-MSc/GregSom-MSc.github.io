@@ -81,10 +81,13 @@ main {
     margin-top: 20px;
 }
 
-.site-nav a.active {
+.site-nav a.active {    /* This is the code that changes the color of the active page, yeah!  */
     font-weight: bold;
-    color: #007bff;  /* Adjust color as needed */
+    color: #FFFFFF;  /* Adjust color as needed */
     text-decoration: underline;
+    background-color: #3c3c3c;
+    padding: 5px 12px;
+    border-radius: 5px;
 }
 
 .social-links a {
