@@ -18,3 +18,20 @@ permalink: /about/
 <a href="https://github.com/jekyll/minima" target="_blank">jekyll/minima</a>. You can also find the source code for Jekyll on GitHub:  
 <a href="https://github.com/jekyll/jekyll" target="_blank">jekyll/jekyll</a>.</p>
 </div> 
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Get the current page URL path
+        let currentPath = window.location.pathname;
+
+        // Select all navigation links
+        let navLinks = document.querySelectorAll(".site-nav a");
+
+        // Loop through links and check for matches
+        navLinks.forEach(link => {
+            if (link.getAttribute("href") === currentPath) {
+                link.classList.add("active");
+            }
+        });
+    });
+</script>
