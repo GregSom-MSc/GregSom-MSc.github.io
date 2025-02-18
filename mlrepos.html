@@ -9,124 +9,171 @@ title: ML Repos
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets\Css\style.css">
+    <script src="js/functions"></script>
     <title>Machine Learning Repositories</title>
 
 </head>
 <body>
 
     <h1>Machine Learning Repositories</h1>
+
+    <button onclick="shuffleCards()" style="display: inline-block;
+        padding: 5px 15px; cursor: pointer; background-color: #134074;
+        color: white; text-decoration: none; font-size: .9em; border-radius: 2px;
+        font-weight: bold;">Shuffle Cards</button>
     <div class="mlcardcontainer">
+        <a href="https://www.tensorflow.org/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TensorFlow_Logo_with_text.png/640px-TensorFlow_Logo_with_text.png" alt="TensorFlow">
             <div class="card-content">
                 <div class="card-title">TensorFlow</div>
                 <div class="card-description">An open source machine learning framework for everyone.</div>
             </div>
+        </a>
         </div>
+        <a href="https://numpy.org" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/200px-NumPy_logo.svg.png" alt="NumPy">
             <div class="card-content">
                 <div class="card-title">NumPy</div>
                 <div class="card-description">The fundamental package for scientific computing with Python.</div>
             </div>
+        </a>
         </div>
+        <a href="https://pytorch.org/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/640px-PyTorch_logo_black.svg.png" alt="PyTorch">
             <div class="card-content">
                 <div class="card-title">PyTorch</div>
                 <div class="card-description">An open source machine learning framework that accelerates the path from prototype to production.</div>
             </div>
+        </a>
         </div>
+        <a href="https://huggingface.co/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hf-logo-with-title.svg/640px-Hf-logo-with-title.svg.png" alt="Hugging Face">
             <div class="card-content">
                 <div class="card-title">Hugging Face</div>
                 <div class="card-description">The AI community building the future.</div>
             </div>
+        </a>
         </div>
+        <a href="https://opencv.org/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/640px-OpenCV_logo_black.svg.png" alt="OpenCV">
             <div class="card-content">
                 <div class="card-title">OpenCV</div>
                 <div class="card-description">Open Source Computer Vision Library.</div>
             </div>
+        </a>
         </div>
+        <a href="https://keras.io/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/640px-Keras_logo.svg.png" alt="Keras">
             <div class="card-content">
                 <div class="card-title">Keras</div>
                 <div class="card-description">The Python Deep Learning API.</div>
             </div>
+        </a>
         </div>
+        <a href="https://kubernetes.io/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/640px-Kubernetes_logo.svg.png" alt="Kubernetes">
             <div class="card-content">
                 <div class="card-title">Kubernetes</div>
                 <div class="card-description">Production-Grade Container Orchestration.</div>
             </div>
+        </a>
         </div>
+        <a href="https://github.com/fastai" target="_blank">
         <div class="card">
-            <img src="https://raw.githubusercontent.com/fastai/logos/refs/heads/main/Fast.ai.png" alt="Fast.ai">
+            <img src="https://raw.githubusercontent.com/fastai/logos/refs/heads/main/logo_square.png" alt="Fastai">
             <div class="card-content">
                 <div class="card-title">Fast.ai</div>
                 <div class="card-description">Making neural nets uncool again.</div>
             </div>
+        </a>
         </div>
+        <a href="https://github.com/facebookresearch/detectron2" target="_blank">
         <div class="card">
             <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/9604f5995cc628619f0e4fd913453b4d7d61db3f/.github/Detectron2-Logo-Horz.svg" alt="Detectron2">
             <div class="card-content">
                 <div class="card-title">Detectron2</div>
                 <div class="card-description">FAIR's next-generation research platform for object detection.</div>
             </div>
+        </a>
         </div>
+        <a href="https://scikit-learn.org/" target="_blank">
         <div class="card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scikit_learn_logo.svg/640px-Scikit_learn_logo.svg.png" alt="Scikit-learn">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/220px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn">
             <div class="card-content">
                 <div class="card-title">Scikit-learn</div>
                 <div class="card-description">A simple and efficient tool for data mining and data analysis.</div>
             </div>
+        </a>
         </div>
+        <a href="https://openai.com/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/OpenAI_logo_2025.svg/640px-OpenAI_logo_2025.svg.png" alt="OpenAI Gym">
             <div class="card-content">
                 <div class="card-title">OpenAI Gym</div>
                 <div class="card-description">A toolkit for developing and comparing reinforcement learning algorithms.</div>
             </div>
+        </a>
         </div>
+        <a href="https://scipy.org/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/640px-SCIPY_2.svg.png" alt="SciPy">
             <div class="card-content">
                 <div class="card-title">SciPy</div>
                 <div class="card-description">A Python library used by scientists, analysts, and engineers.</div>
             </div>
+        </a>
         </div>
+        <a href="https://flairnlp.github.io/" target="_blank">
         <div class="card">
             <img src="https://raw.githubusercontent.com/flairNLP/flair/refs/heads/master/resources/docs/flair_logo_2020_FINAL_day_dpi72.png" alt="Flair">
             <div class="card-content">
                 <div class="card-title">Flair</div>
                 <div class="card-description">A very simple framework for state-of-the-art Natural Language Processing (NLP).</div>
             </div>
+        </a>
         </div>
+        <a href="https://lightning.ai/pytorch-lightning" target="_blank">
         <div class="card">
             <img src="https://raw.githubusercontent.com/kbojo/images/master/Pytorch-Lightning.png" alt="PyTorch Lightning">
             <div class="card-content">
                 <div class="card-title">PyTorch Lightning</div>
                 <div class="card-description">The lightweight PyTorch wrapper for high-performance AI research.</div>
             </div>
+        </a>
         </div>
+        <a href="https://deepmind.google/" target="_blank">
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/DeepMind_new_logo.svg/640px-DeepMind_new_logo.svg.png" alt="DeepMind">
             <div class="card-content">
                 <div class="card-title">DeepMind</div>
                 <div class="card-description">AI research that pushes the boundaries of what's possible.</div>
             </div>
+        </a>
         </div>
+        <a href="https://github.com/tensorlayer/TensorLayer" target="_blank">
         <div class="card">
             <img src="https://raw.githubusercontent.com/tensorlayer/TensorLayer/refs/heads/master/img/tl_white_logo.png" alt="TensorLayer">
             <div class="card-content">
                 <div class="card-title">TensorLayer</div>
                 <div class="card-description">A versatile TensorFlow library that simplifies the process of building and training complex neural networks.</div>
             </div>
+        </a>
+        </div>
+        <a href="https://mlflow.org/docs/latest/index.html" target="_blank">
+        <div class="card">
+            <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow">
+            <div class="card-content">
+                <div class="card-title">MLflow</div>
+                <div class="card-description">Open-source platform, purpose-built to assist in handling the complexities of machine learning process.</div>
+            </div>
+        </a>
         </div>
     </div> </body>
 </html>
