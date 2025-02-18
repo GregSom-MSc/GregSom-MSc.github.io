@@ -146,3 +146,43 @@ main {
     border-bottom: 2px solid #134074; /* Underline on hover */
     color: #0b2545; /* Slightly darker hover color */
 }
+
+.mlcardcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+width: 200px;
+height: 250px;
+margin: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+overflow: hidden;
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+transform: scale(1.05);
+}
+
+.card img {
+width: 100%;
+height: 150px;
+object-fit: cover;
+}
+
+.card-content {
+padding: 10px;
+}
+
+.card-title {
+font-weight: bold;
+margin-bottom: 5px;
+}
+
+.card-description {
+font-size: 14px;
+}
