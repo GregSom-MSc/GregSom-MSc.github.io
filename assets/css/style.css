@@ -198,3 +198,65 @@ margin-bottom: 3px;
 .card-description {
 font-size: 10px;
 }
+
+.projects-container {
+    display: flex;
+    justify-content: space-around; /* Distribute cards evenly */
+}
+
+.project-card {
+    width: 230px;
+    height: 170px;
+    margin: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.8s ease-in-out;
+    background: linear-gradient(to bottom, #FFFFFF, #EEEEEE);
+    cursor: pointer;
+    display: flex; /* Use flexbox for image and text positioning */
+    align-items: flex-start; 
+}
+
+.project-card {
+    width: 30%; /* Each card takes up 30% of the container width */
+    margin-right: 10px;
+    border: 1.5px solid #ccc;
+    padding: 0px;
+    cursor: pointer; /* Make cards clickable */
+    display: flex; /* Use flexbox for image and text positioning */
+    flex-direction: row; /* Stack image and text vertically */
+}
+
+.image-container {
+    width: 225px; /* Set fixed height for image container */
+     /* Set fixed height for image container */
+
+}
+
+.project-card img {
+width: 30%; /* Image takes full card width */
+margin-right: 10px; /* Add spacing below image */
+}
+
+.text-content {
+    flex: 1; /* Allow text content to take up remaining space */
+}
+
+.project-card h3 {
+margin-top: 25px;
+margin: 2; /* Remove default margin for the title */
+text-align: left; /* Center the title */
+}
+
+.project-details {
+margin-top: 10px; /* Add spacing above details */
+font-size: 0.8em;
+
+}
+
+.project-details a {
+display: block; /* Make link a block element */
+text-align: center; /* Center the link */
+}

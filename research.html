@@ -11,6 +11,7 @@ title: Research
     <link rel="stylesheet" href="assets\Css\style.css">
     <script src="sm_Books.json"></script>
     <script src="sm_library.json"></script>
+    <script src="js/functions"></script>
     <title>Research</title>
 </head>
 <body>
@@ -28,15 +29,64 @@ title: Research
             <a href="https://scholar.google.com/citations?user=cXjzSawAAAAJ&hl=es">My Google Scholar Profile</a>
         </div>
 
-        <section class="research-section">
-            <h3 class="section-title">Personal Projects and Research</h3>
-            <ul class="research-list">
-                <li><a href="https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113" target="_blank">Remittances from USA to Mexico</a></li>
-                <li><a href="https://gregsom-msc.github.io/Bubble_Maps_SG23/" target="_blank">Disease Prevalence Maps by NHS Region</a></li>
-                <li><a href="https://public.tableau.com/app/profile/samuel5241/vizzes" target="_blank">Tableau projects</a></li>
-            </ul>
-        </section>
-        <br>
+    <div class="projects-container">
+        <div class="project-card">
+            <img src="assets\Images\1.png" alt="Personal">
+            <div class="text-content"> 
+                <h3>Personal Projects and Research</h3>
+                <div class="project-details">
+                <p>Published research, projects and visualisations</p>
+                </div>
+            </div>
+        </div>
+        <div class="project-card">
+            <img src="assets\Images\2.png" alt="mlrepos">
+            <div class="text-content"> 
+                <h3>Machine Learning Repositories</h3>
+                <div class="project-details">
+                <p>Some nice-to-explore documentation</p>
+                </div>
+            </div>
+        </div>
+        <div class="project-card">
+            <img src="assets\Images\3.png" alt="books">
+            <div class="text-content"> 
+                <h3>Favorite<br>Books</h3>
+                <div class="project-details">
+                <p>Curated collection of valuable literature (and code)</p>
+                </div>
+            </div>
+        </div>
+        <div class="project-card">
+            <img src="assets\Images\4.png" alt="papers">
+            <div class="text-content"> 
+                <h3>Academic<br>Articles</h3>
+                <div class="project-details">
+                <p>Favorite Academic Papers</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+<hr>
+
+<div class="projects-container">
+</div>
+<hr id="details-line" style="display: none;"> 
+
+<div id="personal-projects-details" style="display: none;">
+    <section class="research-section">
+        <h3 class="section-title">Personal Projects and Research</h3>
+        <ul class="research-list">
+            <li><a href="https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/113" target="_blank">Remittances from USA to Mexico</a></li>
+            <li><a href="https://gregsom-msc.github.io/Bubble_Maps_SG23/" target="_blank">Disease Prevalence Maps by NHS Region</a></li>
+            <li><a href="https://public.tableau.com/app/profile/samuel5241/vizzes" target="_blank">Tableau projects</a></li>
+        </ul>
+    </section>
+    <br>
+</div>
+
+<div id="mlrepos-details" style="display: none;">
         <section class="research-section">
             <h3 class="section-title">Machine Learning Repositories:</h3>
             <div style="text-align: justify;">This page contains some nice-to-explore documentation, I eagerly recommend you to explore it if you are a Machine Learning practitioner.</div>
@@ -48,29 +98,40 @@ title: Research
             </div>
         </section>
         <br>
+</div>
 
-        <h2>Books and Articles Worth Exploring </h2>
-        <div style="text-align: justify; font-size: smaller;">
+<div id="books-details" style="display: none;">
+    <h2>Books and Articles Worth Exploring </h2>
+    <div style="text-align: justify; font-size: smaller;">
         <p>This is a nice personal selection of fascinating books and academic articles, primarily focused on finance and economics. You can click the buttons on the right to view each Summary or Abstract.</p>
+    </div>
+    <hr>
+    <div id="resources">
+    <section class="research-section">
+    <script src="Get_Books.js"></script>  
+    </section>
+    </div>
+</div>
 
-        <p><b>Important:</b> Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me</a> if you have any questions, need material on specific topics, or just want to say hello.</p>
-        </div>
-        
-        <hr>
-        
-        <div id="resources">
+<div id="articles-details" style="display: none;">
+    <h2>Books and Articles Worth Exploring </h2>
+    <div style="text-align: justify; font-size: smaller;">
+    <p>This is a nice personal selection of fascinating books and academic articles, primarily focused on finance and economics. You can click the buttons on the right to view each Summary or Abstract.</p>
+    </div>
+    <hr>
+    <div id="resources">
+    <section class="research-section">
 
-        <section class="research-section">
-            
-        <script src="Get_Books.js"></script>  
+    <script src="Get_Articles.js"></script>
 
-        <script src="Get_Articles.js"></script>
+    </section>
+    </div>
+</div>
 
-        </section>
-        </div>
-        <hr>
-        
-        <p><b>Note:</b> Also, tell me your suggestions! I love to be always learning new things.</p>
-    
+<hr>
+<p><b>Important:</b> Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me</a> if you have any questions, need material on specific topics, or just want to say hello.</p>
+
+<p><b>Note:</b> Also, tell me your suggestions! I love to be always learning new things.</p>
+
 </body>
 </html>
