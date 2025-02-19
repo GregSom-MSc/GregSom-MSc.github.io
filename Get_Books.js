@@ -1,32 +1,32 @@
 fetch('sm_Books.json')
     .then(response => response.json()) // Convert the response to JSON
-    .then(papers => {
-        const resourcesContainer = document.getElementById("resources");
+    .then(books => {
+        const resourcesContainer = document.getElementById("resourcesb");
 
-        // Loop through the papers and create dynamic content
-        papers.forEach((paper, index) => {
-            // Create container for each paper with Flexbox to align items
-            const paperDiv = document.createElement('div');
-            paperDiv.style.display = "flex";
-            paperDiv.style.justifyContent = "space-between";
-            paperDiv.style.alignItems = "center";
-            paperDiv.style.marginBottom = "20px";
+        // Loop through the books and create dynamic content
+        books.forEach((book, index) => {
+            // Create container for each book with Flexbox to align items
+            const bookDiv = document.createElement('div');
+            bookDiv.style.display = "flex";
+            bookDiv.style.justifyContent = "space-between";
+            bookDiv.style.alignItems = "center";
+            bookDiv.style.marginBottom = "20px";
 
-            // Add paper title and author
-            const paperInfoDiv = document.createElement('div');
+            // Add book title and author
+            const bookInfoDiv = document.createElement('div');
             const titleLink = document.createElement('a');
-            titleLink.href = paper.url;
+            titleLink.href = book.url;
             titleLink.target = "_blank";
-            titleLink.innerHTML = `<b style="font-size: 14px;">${paper.author}</b><br><span style="font-size: 12px;">${paper.title}</span>`;
-            paperInfoDiv.appendChild(titleLink);
+            titleLink.innerHTML = `<b style="font-size: 14px;">${book.author}</b><br><span style="font-size: 12px;">${book.title}</span>`;
+            bookInfoDiv.appendChild(titleLink);
 
             // Add optional code link if exists
-            if (paper.code_url) {
+            if (book.code_url) {
                 const codeLink = document.createElement('a');
-                codeLink.href = paper.code_url;
+                codeLink.href = book.code_url;
                 codeLink.target = "_blank";
                 codeLink.innerHTML = `<br><span style="font-size: 12px;">[Code]</span>`;
-                paperInfoDiv.appendChild(codeLink);
+                bookInfoDiv.appendChild(codeLink);
             }
 
             // Create "See summary" button, aligned to the right
@@ -56,14 +56,14 @@ fetch('sm_Books.json')
             summaryDiv.style.display = "none";
             summaryDiv.style.marginTop = "10px";
             summaryDiv.style.marginBottom = "20px"; // Add space below the summary
-            summaryDiv.innerHTML = `<div style="text-align: justify; font-size: smaller; max-width: 80%;">${paper.summary}</div>`;
+            summaryDiv.innerHTML = `<div style="text-align: justify; font-size: smaller; max-width: 80%;">${book.summary}</div>`;
 
             // Append the title, author, and button to the container
-            paperDiv.appendChild(paperInfoDiv);
-            paperDiv.appendChild(summaryButton);
+            bookDiv.appendChild(bookInfoDiv);
+            bookDiv.appendChild(summaryButton);
 
             // Append the summary after the main container
-            resourcesContainer.appendChild(paperDiv);
+            resourcesContainer.appendChild(bookDiv);
             resourcesContainer.appendChild(summaryDiv);
         });
     })
