@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const detailsSections = {
     'Personal Projects and Research': document.getElementById('personal-projects-details'),
     'Machine Learning Repositories': document.getElementById('mlrepos-details'),
-    'Favorite<br>Books': document.getElementById('books-details'),
-    'Academic<br>Articles': document.getElementById('articles-details')
+    'Favorite Books': document.getElementById('books-details'),
+    'Academic Articles': document.getElementById('articles-details')
   };
 
   cards.forEach(card => {
