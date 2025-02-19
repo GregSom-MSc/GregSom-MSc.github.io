@@ -2,6 +2,7 @@
 layout: default
 ---
 # Welcome
+
 <div style="text-align: justify;font-size:smaller; margin-bottom: 20px;">
 
     <h3>Samuel here, 来てくれて感謝する!</h3>
@@ -34,3 +35,12 @@ layout: default
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="90%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <hr>
+
+<p>
+  MSc in Finance, Technology and Policy by <a href="https://www.ed.ac.uk/">UoE</a>
+  <img src="https://tinderboxcollective.org/wp-content/uploads/2020/11/UoE-Stacked-Colour-white-background-logo.png" alt="UoE Logo" width="50">
+</p>
+<p>
+  BA Economics, MA Economic Theory, by <a href="https://www.itam.mx/en">ITAM</a>
+  <img src="https://www.itam.mx/sites/all/themes/coursat/logo.png" alt="ITAM Logo" width="50">
+</p>
