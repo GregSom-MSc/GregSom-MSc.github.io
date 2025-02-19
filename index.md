@@ -37,10 +37,10 @@ layout: default
 <hr>
 
 <p>
-  MSc in Finance, Technology and Policy by <a href="https://www.ed.ac.uk/">UoE</a>
+  MSc in Finance, Technology and Policy by <a href="https://www.ed.ac.uk/"></a>
   <img src="https://tinderboxcollective.org/wp-content/uploads/2020/11/UoE-Stacked-Colour-white-background-logo.png" alt="UoE Logo" width="50">
 </p>
 <p>
-  BA Economics, MA Economic Theory, by <a href="https://www.itam.mx/en">ITAM</a>
+  BA Economics, MA Economic Theory, by <a href="https://www.itam.mx/en"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" width="50">
 </p>
