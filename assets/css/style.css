@@ -91,7 +91,7 @@ main {
     margin-bottom: -5px;
 }
 
-@media (max-width: 768px) { /* Adjust the breakpoint as needed */
+@media (max-width: 768px) { /* Menu adjustment for mobiles. */
     .site-nav a.active {
         font-weight: bold;
         color: #FFFFFF; 
