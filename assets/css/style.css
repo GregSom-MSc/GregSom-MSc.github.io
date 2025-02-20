@@ -92,7 +92,7 @@ main {
 }
 
 @media (max-width: 768px) { /* Adjust the breakpoint as needed */
-    .projects-container {
+    .site-nav a.active {
         font-weight: bold;
         color: #FFFFFF; 
         text-decoration: underline;
@@ -100,7 +100,7 @@ main {
         padding: 6px 20px;
         border-radius: 5px;
         margin-bottom: -2px;
-    }
+    }}
 
     
 .social-links a {
