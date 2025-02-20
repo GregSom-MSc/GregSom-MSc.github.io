@@ -19,6 +19,7 @@ layout: default
     
     <p><b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me</a>. </b> </p>
     
+    
 <hr>
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
@@ -32,15 +33,15 @@ layout: default
 <br><br>
 
 <div style="text-align: center;">
-    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="90%" height="150px" style="max-width: 600px; margin: auto;"></iframe>
+    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="100%" height="170px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <hr>
 
 <p>
-  MSc in Finance, Technology and Policy by <a href="https://www.ed.ac.uk/"></a>
+  MSc in Finance, Technology and Policy by  <a href="https://www.ed.ac.uk/"></a>
   <img src="https://tinderboxcollective.org/wp-content/uploads/2020/11/UoE-Stacked-Colour-white-background-logo.png" alt="UoE Logo" width="50">
 </p>
 <p>
-  BA Economics, MA Economic Theory, by <a href="https://www.itam.mx/en"></a>
+  BA Economics, MA Economic Theory, by  <a href="https://www.itam.mx/en"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" width="50">
 </p>

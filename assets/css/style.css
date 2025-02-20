@@ -91,6 +91,18 @@ main {
     margin-bottom: -5px;
 }
 
+@media (max-width: 768px) { /* Adjust the breakpoint as needed */
+    .projects-container {
+        font-weight: bold;
+        color: #FFFFFF; 
+        text-decoration: underline;
+        background-color: #134074;
+        padding: 6px 20px;
+        border-radius: 5px;
+        margin-bottom: -2px;
+    }
+
+    
 .social-links a {
     margin: 0 10px;
     color: #D3D3D3;
