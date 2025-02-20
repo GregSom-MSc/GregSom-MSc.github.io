@@ -111,6 +111,7 @@ section {
     padding: 0px 0px 0px 0px;
     width: 100%;
 }
+
 .research-section {
 
     padding: 5px 20px;
@@ -282,5 +283,8 @@ text-align: center; /* Center the link */
         margin-top: 2px; /* Add spacing above details */
         margin: 5 20;
         font-size: 0.7em;        
-        }    
+        }
+    p {
+        text-align: left;
+    }    
 }
