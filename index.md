@@ -9,7 +9,7 @@ layout: default
 
     I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions.
 
-    
+
 
 
     My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions. I am eager to apply my skills in the private financial sector, whether in research or hands-on roles. <br>
@@ -36,7 +36,7 @@ layout: default
 <br><br>
 
 <div style="text-align: center;">
-    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="0" width="100%" height="170px" style="max-width: 600px; margin: auto;"></iframe>
+    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="no" width="100%" height="170px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <hr>
 
