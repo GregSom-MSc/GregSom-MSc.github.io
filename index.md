@@ -8,11 +8,13 @@ layout: default
     <h3>Samuel here, 来てくれて感謝する!</h3>
 
     I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions.
+
     
+
 
     My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions. I am eager to apply my skills in the private financial sector, whether in research or hands-on roles. <br>
 
-    Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a good cup of coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.  <br>
+    Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a guid cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.  <br>
 
     I especially enjoy aquascaping, my favorite hobby. I will restart it as soon as I find the right place to do it. <br>
 
