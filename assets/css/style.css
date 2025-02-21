@@ -105,8 +105,8 @@ main {
         margin-left: 0;
     }
     nav ul li {
-        margin: 0px 0px;
-        padding: 10px;
+        margin: 0px 0px 5px 0px;
+        padding: 5px 0px 0px 0px;
     }
 }
 
