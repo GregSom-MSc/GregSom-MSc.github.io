@@ -7,15 +7,38 @@
     <meta name="keywords" content="Samuel Moreno Santoyo, Samuel Gregorio, GregSom, Financial Analysis, Fintech, Data Science, Economics, artificial inteligence, tech, LLM, AI, ML, machine learning, Policy, Research, Blog, Projects, Papers, Books, Gadgets, Code, Knowledge Base, contact, Resources">
     <meta name="author" content="Samuel Moreno">
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Samuel Moreno",
-      "url": "{{ site.url }}",
-      "jobTitle": "Financial Analyst with Business and Data Expertise",
-      "mainEntityOfPage": "{{ site.url }}"
-    }
-  </script>
+        {
+        "@context": "https://schema.org",
+        "@graph": [  // The @graph array holds both objects
+        {
+            "@type": "Person",
+            "name": "Samuel Moreno",
+            "url": "{{ site.url }}",
+            "jobTitle": "Financial Analyst with Business and Data Science Expertise",
+            "mainEntityOfPage": "{{ site.url }}"
+        },
+        {
+            "@type": "Article",
+            "headline": "UEdB Students Win First Place at Inter-University Hackathon",
+            "author": {
+            "@type": "Organization",
+            "name": "University of Edinburgh Business School"
+            },
+            "url": "https://www.bccas.business-school.ed.ac.uk/news/uebs-students-win-first-place-inter-university-hackathon",
+            "datePublished": "2024-08-29",
+            "description": "A team of Graduate students from the University of Edinburgh Business School won first place at an Inter-University Hackathon 2024. They used LSEG APIs to create portfolios that aligned with ESG constraints.",
+            "keywords": [
+            "University of Edinburgh Business School",
+            "Inter-University Hackathon",
+            "Net Zero Portfolio Optimization Solution",
+            "LSEG APIs", // Corrected API name
+            "ESG constraints"
+            ]
+        }
+        ]
+        }
+        </script>
+
     <meta property="og:title" content="Samuel Moreno - Personal Webpage - Finance, Technology & Policy">
     <meta property="og:description" content="Samuel Moreno on finance, economics, ml, coding, technology, and policy.">
     <meta property="og:image" content="{{ '/assets/Images/preview-image.jpg' | relative_url }}">
