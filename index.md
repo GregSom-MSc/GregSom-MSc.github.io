@@ -31,15 +31,15 @@ layout: default
 <br><br>
 
 <div style="text-align: center;">
-    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="50" width="100%" height="170px" style="max-width: 600px; margin: auto;"></iframe>
+    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="50" width="100%" height="190px" style="max-width: 600px; margin: auto;"></iframe>
 </div>
 <hr>
 
 <p>
   MSc in Finance, Technology and Policy by  <a href="https://www.ed.ac.uk/"></a>
-  <img src="https://tinderboxcollective.org/wp-content/uploads/2020/11/UoE-Stacked-Colour-white-background-logo.png" alt="UoE Logo" width="50">
+  <img src="https://tinderboxcollective.org/wp-content/uploads/2020/11/UoE-Stacked-Colour-white-background-logo.png" alt="UoE Logo" height="15">
 </p>
 <p>
   BA Economics, MA Economic Theory, by  <a href="https://www.itam.mx/en"></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" width="15">
 </p>
