@@ -3,7 +3,7 @@ layout: default
 ---
 # Welcome
 
-<section style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
+<section style="font-size: 1rem; line-height: 1.6; margin-bottom: 20px;">
 
 ### Samuel here, 来てくれて感謝する!
 
