@@ -7,23 +7,29 @@ layout: default
 
 ### Samuel here, 来てくれて感謝する!
 
-    I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My work and research focuses on predictive modeling with machine learning, big data analytics, and AI financial market solutions. 
-    I love to apply these skills within the private financial sector, whether in research or hands-on roles.
+I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions.
+
+My work and research focuses on predictive modeling with machine learning, big data analytics, and AI financial market solutions. 
+I love to apply these skills within the private financial sector, whether in research or hands-on roles.
+
+---
 
 ### Beyond Work
 
 I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting ([feel free to reach out](https://GregSom-MSc.github.io/contact)) and pursuing entrepreneurial new adventures.
 
-I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the[Royal Zoological Society of Scotland (RZSS)](https://www.rzss.org.uk) at the Edinburgh Zoo.
+I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the [Royal Zoological Society of Scotland (RZSS)](https://www.rzss.org.uk) at the Edinburgh Zoo.
 
 ---
 
 ### Explore More
 
-Check out this page, as it has some interesting readings</a> and look around my [projects](https://GregSom-MSc.github.io/research).
+- Check out this page, it has some really interesting and updated readings on tech, finance and more!
+- Look around my [projects](https://GregSom-MSc.github.io/research), something may come in handy.
+
 I hope you will discover some valuable and inspiring resources.
     
-**Don't hesitate to [contact me](https://GregSom-MSc.github.io/contact).**
+**Don't hesitate to [contact me or ask anything](https://GregSom-MSc.github.io/contact).**
 
 </section>
     
