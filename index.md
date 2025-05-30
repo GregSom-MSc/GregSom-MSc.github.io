@@ -8,26 +8,26 @@ layout: default
 
 <h2> Samuel here, 来てくれて感謝する! </h2>
 
-I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. <br>
+I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. <br><br>
 
 My work and research focuses on predictive modeling with machine learning, big data analytics, and AI financial market solutions. 
 I love to apply these skills within the private financial sector, whether in research or hands-on roles.
 
 <h2>Beyond Work </h2>
 
-My life is all about exploring new ideas, running, savouring a wee cup o’ coffee, and diving into interesting stories, curious facts and nice music. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>) and new entrepreneurial adventures.
+My life is all about exploring new ideas, running, savouring a wee cup o’ coffee, and diving into interesting stories, curious facts and nice music. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>) and new entrepreneurial adventures. <br><br>
 
 I especially enjoy nature. <b>Aquascaping</b> is my favourite hobby and I volunteer regularly for the <a href="https://www.rzss.org.uk">Royal Zoological Society of Scotland (RZSS)</a> at the Edinburgh Zoo.
 
 
 <h2> Explore More </h2>
 
-Check out this page, it has some really interesting and updated readings on tech, finance and more!
+Check out this page, it has some really interesting and updated readings on tech, finance and more!<br>
 
 Look around my <a href="https://GregSom-MSc.github.io/research">projects</a>, something may come in handy.
 
 
-I hope you will discover some valuable and inspiring resources.
+I hope you will discover some valuable and inspiring resources.<br><br>
     
 <b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b>
 
@@ -36,7 +36,7 @@ I hope you will discover some valuable and inspiring resources.
 <hr>
 <h2>Lookin' for some nice Gadgets?</h2>
 <div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
-    <p style="font-size: 1.2rem; color: #333;">Explore this  <strong>Linktree page</strong>, I've got some aesthetic things that I love: </p>
+    <p style="font-size: 1.2rem; color: #333;">Explore my <strong>Linktree</strong>, it has some useful & aesthetic stuff that I use and recommend: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 15px 25px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1.3em; border-radius: 5px; font-weight: bold;">
         Somniverse
