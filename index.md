@@ -41,7 +41,9 @@ I hope you will discover some valuable and inspiring resources.
 </div>
 <br>
 <hr>
-<br><br>
+<br>
+
+<h2> Github Contributions </h2>
 
 <div style="text-align: center;">
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="50" width="100%" height="190px" style="max-width: 600px; margin: auto;"></iframe>
