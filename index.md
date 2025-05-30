@@ -12,15 +12,11 @@ I'm an Economist and Financial Analyst with a strong passion for data science an
 My work and research focuses on predictive modeling with machine learning, big data analytics, and AI financial market solutions. 
 I love to apply these skills within the private financial sector, whether in research or hands-on roles.
 
----
-
 <h2>Beyond Work </h2>
 
-I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting ([feel free to reach out](https://GregSom-MSc.github.io/contact)) and pursuing entrepreneurial new adventures.
+I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>) and pursuing entrepreneurial new adventures.
 
 I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the [Royal Zoological Society of Scotland (RZSS)](https://www.rzss.org.uk) at the Edinburgh Zoo.
-
----
 
 <h2> Explore More </h2>
 
