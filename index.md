@@ -5,19 +5,27 @@ layout: default
 
 <div style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
 
-    <h3>Samuel here, 来てくれて感謝する!</h3>
+### Samuel here, 来てくれて感謝する!
 
-    I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions. I am eager to apply my skills in the private financial sector, whether in research or hands-on roles. <br> <br>
+    I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My work and research focuses on predictive modeling with machine learning, big data analytics, and AI financial market solutions. 
+    I love to apply these skills within the private financial sector, whether in research or hands-on roles.
 
-    Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a guid cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.  <br><br>
+### Beyond Work
 
-    I especially enjoy aquascaping, my favorite hobby. I will restart it as soon as I find the right place to do it. <br><br>
+I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting ([feel free to reach out](https://GregSom-MSc.github.io/contact)) and pursuing entrepreneurial new adventures.
 
-    Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources.
+I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the[Royal Zoological Society of Scotland (RZSS)](https://www.rzss.org.uk) at the Edinburgh Zoo.
+
+---
+
+### Explore More
+
+Check out this page, as it has some interesting readings</a> and look around my [projects](https://GregSom-MSc.github.io/research).
+I hope you will discover some valuable and inspiring resources.
     
-    <b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me</a>. </b>
-    
-    
+**Don't hesitate to [contact me](https://GregSom-MSc.github.io/contact).**
+
+
 <hr>
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
