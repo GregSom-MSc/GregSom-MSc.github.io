@@ -14,7 +14,7 @@ I love to apply these skills within the private financial sector, whether in res
 
 ---
 
-### Beyond Work
+<h2>Beyond Work </h2>
 
 I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting ([feel free to reach out](https://GregSom-MSc.github.io/contact)) and pursuing entrepreneurial new adventures.
 
@@ -22,7 +22,7 @@ I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer
 
 ---
 
-### Explore More
+<h2> Explore More </h2>
 
 - Check out this page, it has some really interesting and updated readings on tech, finance and more!
 - Look around my [projects](https://GregSom-MSc.github.io/research), something may come in handy.
