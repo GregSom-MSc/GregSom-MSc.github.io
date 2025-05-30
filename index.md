@@ -3,6 +3,7 @@ layout: default
 ---
 # Welcome
 
+<div class="body">
 <div style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
 
 <h2> Samuel here, 来てくれて感謝する! </h2>
@@ -58,3 +59,4 @@ I hope you will discover some valuable and inspiring resources.
   BA Economics, MA Economic Theory, by  <a href="https://www.itam.mx/en"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" height="10">
 </p>
+</div>
