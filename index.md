@@ -4,7 +4,7 @@ layout: default
 # Welcome
 
 
-<div style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
+<div style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 2rem;">
 
 <h2> Samuel here, 来てくれて感謝する! </h2>
 
@@ -35,7 +35,7 @@ I hope you will discover some valuable and inspiring resources.
     
 <hr>
 <div style="text-align: center; margin-top: 20px;">
-    <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
+    <p style="font-size: 1.2rem; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 15px 25px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1.3em; border-radius: 5px; font-weight: bold;">
         Somniverse
