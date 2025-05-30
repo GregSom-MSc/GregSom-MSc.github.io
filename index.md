@@ -22,13 +22,14 @@ I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer
 
 <h2> Explore More </h2>
 
-- Check out this page, it has some really interesting and updated readings on tech, finance and more!
-- Look around my <a href="https://GregSom-MSc.github.io/research">projects</a>, something may come in handy.
+Check out this page, it has some really interesting and updated readings on tech, finance and more!
+
+Look around my <a href="https://GregSom-MSc.github.io/research">projects</a>, something may come in handy.
 
 
 I hope you will discover some valuable and inspiring resources.
     
-**Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.**
+<b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b>
 
 </div>
     
