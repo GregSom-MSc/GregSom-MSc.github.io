@@ -3,9 +3,9 @@ layout: default
 ---
 # Welcome
 
-<section style="font-size: 1rem; line-height: 1.6; margin-bottom: 20px;">
+<section style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
 
-### Samuel here, 来てくれて感謝する!
+<h2> Samuel here, 来てくれて感謝する! </h2>
 
 I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions.
 
