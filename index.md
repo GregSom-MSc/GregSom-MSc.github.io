@@ -17,7 +17,7 @@ I love to apply these skills within the private financial sector, whether in res
 
 I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>) and pursuing entrepreneurial new adventures.
 
-I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the <a href="https://www.rzss.org.uk">Royal Zoological Society of Scotland (RZSS)</a> at the Edinburgh Zoo.
+I especially enjoy nature. <b>Aquascaping</b> is my favourite hobby and I volunteer regularly for the <a href="https://www.rzss.org.uk">Royal Zoological Society of Scotland (RZSS)</a> at the Edinburgh Zoo.
 
 
 <h2> Explore More </h2>
