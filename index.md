@@ -3,7 +3,7 @@ layout: default
 ---
 # Welcome
 
-<div style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
+<section style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
 
 ### Samuel here, 来てくれて感謝する!
 
@@ -25,7 +25,8 @@ I hope you will discover some valuable and inspiring resources.
     
 **Don't hesitate to [contact me](https://GregSom-MSc.github.io/contact).**
 
-
+</section>
+    
 <hr>
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 1.2em; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
