@@ -3,7 +3,7 @@ layout: default
 ---
 # Welcome
 
-<section style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
+<div style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
 
 <h2> Samuel here, 来てくれて感謝する! </h2>
 
@@ -29,7 +29,7 @@ I hope you will discover some valuable and inspiring resources.
     
 **Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.**
 
-</section>
+</div>
     
 <hr>
 <div style="text-align: center; margin-top: 20px;">
