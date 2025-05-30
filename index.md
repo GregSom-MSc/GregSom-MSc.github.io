@@ -16,16 +16,18 @@ I love to apply these skills within the private financial sector, whether in res
 
 I enjoy exploring new business ideas, running, savouring a wee cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>) and pursuing entrepreneurial new adventures.
 
-I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the [Royal Zoological Society of Scotland (RZSS)](https://www.rzss.org.uk) at the Edinburgh Zoo.
+I especially enjoy nature. **Aquascaping** is my favourite hobby and I volunteer regularly for the <a href="https://www.rzss.org.uk">Royal Zoological Society of Scotland (RZSS)</a> at the Edinburgh Zoo.
+
 
 <h2> Explore More </h2>
 
 - Check out this page, it has some really interesting and updated readings on tech, finance and more!
-- Look around my [projects](https://GregSom-MSc.github.io/research), something may come in handy.
+- Look around my <a href="https://GregSom-MSc.github.io/research">projects</a>, something may come in handy.
+
 
 I hope you will discover some valuable and inspiring resources.
     
-**Don't hesitate to [contact me or ask anything](https://GregSom-MSc.github.io/contact).**
+**Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.**
 
 </section>
     
