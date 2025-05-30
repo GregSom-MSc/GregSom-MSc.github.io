@@ -3,7 +3,7 @@ layout: default
 ---
 # Welcome
 
-<div style="text-align: justify;font-size:smaller; margin-bottom: 20px;">
+<div style="font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
 
     <h3>Samuel here, 来てくれて感謝する!</h3>
 
