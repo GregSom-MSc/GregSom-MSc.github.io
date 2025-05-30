@@ -8,7 +8,7 @@ layout: default
 
 <h2> Samuel here, 来てくれて感謝する! </h2>
 
-I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions.
+I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. <br>
 
 My work and research focuses on predictive modeling with machine learning, big data analytics, and AI financial market solutions. 
 I love to apply these skills within the private financial sector, whether in research or hands-on roles.
