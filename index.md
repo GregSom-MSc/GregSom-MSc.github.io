@@ -34,18 +34,17 @@ I hope you will discover some valuable and inspiring resources.
 </div>
     
 <hr>
-<div style="text-align: center; margin-top: 20px;">
+<h2>Lookin' for some nice Gadgets?</h2>
+<div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
     <p style="font-size: 1.2rem; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 15px 25px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1.3em; border-radius: 5px; font-weight: bold;">
         Somniverse
     </a>
 </div>
-<br>
 <hr>
-<br>
 
-<h2 style="font-size: 1.2rem; font-family: inherit; font-weight: bold;"> Github Contributions </h2>
+<h2> Github Contributions </h2>
 
 <div style="text-align: center;">
     <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="50" width="100%" height="190px" style="max-width: 600px; margin: auto;"></iframe>
