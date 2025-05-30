@@ -36,7 +36,7 @@ I hope you will discover some valuable and inspiring resources.
 <hr>
 <h2>Lookin' for some nice Gadgets?</h2>
 <div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
-    <p style="font-size: 1.2rem; color: #333;">Explore my <strong>Linktree</strong> page here, I've got some nice aesthetic gadgets: </p>
+    <p style="font-size: 1.2rem; color: #333;">Explore this  <strong>Linktree page</strong>, I've got some aesthetic things that I love: </p>
     <a href="https://linktr.ee/somniverse" target="_blank"
        style="display: inline-block; padding: 15px 25px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1.3em; border-radius: 5px; font-weight: bold;">
         Somniverse
