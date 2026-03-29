@@ -3,7 +3,6 @@ layout: default
 ---
 # Welcome
 
-
 <div style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 2rem;">
 
 <h2> Samuel here, 来てくれて感謝する! </h2>
@@ -19,7 +18,7 @@ layout: default
 <b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b>
 
 </div>
-    
+
 <hr>
 <h2>Lookin' for some nice Gadgets?</h2>
 <div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
@@ -46,4 +45,3 @@ layout: default
   BA Economics, MA Economic Theory, by  <a href="https://www.itam.mx/en"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" height="10">
 </p>
-
