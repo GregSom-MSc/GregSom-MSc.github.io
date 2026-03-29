@@ -13,9 +13,9 @@ layout: default
 
     I especially enjoy aquascaping, my favorite hobby. I am building some projects as of today, and I will be entering the reef-aquarium world soon enough. <br><br>
 
-    Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources. 
+    Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources. <br> <br>
 
-    Also, I'm currently working on a nice <a href="https://GregSom-MSc.github.io/guiame-ai">Scotland Guide, called Guiame.ai</a>. This has been a nice and juicy project, built it from scratch, giving me stronger coding skills, and at the same time, helping me explore both front and back end knowledge, while using many things I've learnt while living in Scotland.
+    Also, I'm currently working on a nice <a href="https://GregSom-MSc.github.io/guiame-ai">Scotland Guide, called Guiame.ai</a>. This has been a nice and juicy project, built from scratch, helping me improve on my fullstack experience, while helping others to meet a beautiful and authentic Scotland.
     
 <b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b>
 
