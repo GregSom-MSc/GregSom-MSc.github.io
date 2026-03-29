@@ -68,5 +68,12 @@
         "url": "https://allendowney.github.io/DSIRP/#",
         "summary": "This is a hands-on resource to learn algorithms and information retrieval using Python. It uses a search engine as example, exploring the Crawler, Indexer, and the Retriever, with each data structure first presented in Python, then in Redis. runs in Colab!",
         "code_url": null
+    },
+        {
+        "author": "Paul Belleflamme and Martin Peitz (2021)",
+        "title": "The Economics of Platforms: Concepts and Strategy",
+        "url": "https://amzn.to/4bm2MsA",
+        "summary": "Tech giants like Amazon and Netflix have transformed daily life through platforms. This book unravels their economic magic, focusing on network effects—how users fuel growth. With lively case studies, it explains pricing and strategies simply. It’s been a gem for my entrepreneurial journey, especially in building a marketplace, distilling twenty years of economic wisdom into a clear, systematic guide.",
+        "code_url": null
     }
 ]
