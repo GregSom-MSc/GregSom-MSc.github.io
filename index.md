@@ -11,9 +11,11 @@ layout: default
 
     Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a guid cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.  <br><br>
 
-    I especially enjoy aquascaping, my favorite hobby. I will restart it as soon as I find the right place to do it. <br><br>
+    I especially enjoy aquascaping, my favorite hobby. I am building some projects as of today, and I will be entering the reef-aquarium world soon enough. <br><br>
 
-    Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources.
+    Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources. 
+
+    Also, I'm currently working on a nice <a href="https://GregSom-MSc.github.io/guiame-ai">Scotland Guide, called Guiame.ai</a>. This has been a nice and juicy project, built it from scratch, giving me stronger coding skills, and at the same time, helping me explore both front and back end knowledge, while using many things I've learnt while living in Scotland.
     
 <b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b>
 
