@@ -15,7 +15,7 @@ layout: default
 
     Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources. <br> <br>
 
-    Also, I'm currently working on a nice <a href="https://GregSom-MSc.github.io/guiame-ai">Scotland Guide, called Guiame.ai</a>. This has been a nice and juicy project, built from scratch, helping me improve on my fullstack experience, while helping others to meet a beautiful and authentic Scotland.
+    Also, I'm currently working on a nice Scotland guiding toolkit, called <a href="https://guiame.ai">Guiame.ai</a>. This has been a nice and juicy project, built from scratch, helping me improve on my fullstack experience, while helping others to meet a beautiful and authentic Scotland.
     
 <b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b>
 
