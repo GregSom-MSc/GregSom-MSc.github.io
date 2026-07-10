@@ -45,5 +45,5 @@ layout: default
 </p>
 <p>
   BA Economics, MA Economic Theory, by  <a href="https://www.itam.mx/en"></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_del_ITAM.svg/640px-Logo_del_ITAM.svg.png" alt="ITAM Logo" height="10">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/ab/Logo_ITAM.svg" alt="ITAM Logo" height="10">
 </p>
