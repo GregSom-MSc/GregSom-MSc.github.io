@@ -23,7 +23,7 @@ title: Research
 
     <div class="projects-container">
         <div class="project-card">
-            <img src="assets\Images\1.png" alt="Personal">
+            <img src="{{ '/assets/Images/1.png' | relative_url }}" alt="Personal">
             <div class="text-content"> 
                 <h3>Personal Projects and Research</h3>
                 <div class="project-details">
@@ -32,7 +32,7 @@ title: Research
             </div>
         </div>
         <div class="project-card">
-            <img src="assets\Images\2.png" alt="mlrepos">
+            <img src="{{ '/assets/Images/2.png' | relative_url }}" alt="mlrepos">
             <div class="text-content"> 
                 <h3>Machine Learning Repositories</h3>
                 <div class="project-details">
@@ -41,7 +41,7 @@ title: Research
             </div>
         </div>
         <div class="project-card">
-            <img src="assets\Images\3.png" alt="books">
+            <img src="{{ '/assets/Images/3.png' | relative_url }}" alt="books">
             <div class="text-content"> 
                 <h3>Favorite Books</h3>
                 <div class="project-details">
@@ -50,7 +50,7 @@ title: Research
             </div>
         </div>
         <div class="project-card">
-            <img src="assets\Images\4.png" alt="papers">
+            <img src="{{ '/assets/Images/4.png' | relative_url }}" alt="papers">
             <div class="text-content"> 
                 <h3>Academic Articles</h3>
                 <div class="project-details">
@@ -99,7 +99,7 @@ title: Research
     </div>
     <hr>
     <div id="resourcesb"></div>
-    <script src="Get_Books.js"></script>  
+    <script src="{{ '/Get_Books.js' | relative_url }}"></script>
 </div>
 
 <div id="articles-details" style="display: none;">
@@ -109,8 +109,8 @@ title: Research
     </div>
     <hr>
     <div id="resources"></div>
-    <script src="Get_Articles.js"></script>
-    
+    <script src="{{ '/Get_Articles.js' | relative_url }}"></script>
+
 </div>
 
 <hr>
@@ -119,5 +119,3 @@ title: Research
 
 <p><b>Note:</b> Also, tell me your suggestions! I love to be always learning new things.</p>
 </div>
-</body>
-</html>
