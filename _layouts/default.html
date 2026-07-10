@@ -1,113 +1,172 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Samuel Moreno is a Mexican economist and financial analyst with degrees in Economic Theory and Finance, Technology and Policy. Explore his website for insights on his research, projects, blog posts, and curated resources.">
-    <meta name="keywords" content="Samuel Moreno Santoyo, Samuel Gregorio, GregSom, Financial Analysis, Fintech, Data Science, Economics, artificial inteligence, tech, LLM, AI, ML, machine learning, Policy, Research, Blog, Projects, Papers, Books, Gadgets, Code, Knowledge Base, contact, Resources">
-    <meta name="author" content="Samuel Moreno">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Samuel Moreno is a Mexican economist and financial analyst with degrees in Economic Theory and Finance, Technology and Policy. Explore his website for insights on his research, projects, blog posts, and curated resources."
+    />
+    <meta
+      name="keywords"
+      content="Samuel Moreno Santoyo, Samuel Gregorio, GregSom, Financial Analysis, Fintech, Data Science, Economics, artificial inteligence, tech, LLM, AI, ML, machine learning, Policy, Research, Blog, Projects, Papers, Books, Gadgets, Code, Knowledge Base, contact, Resources"
+    />
+    <meta name="author" content="Samuel Moreno" />
     <script type="application/ld+json">
-        {
+      {
         "@context": "https://schema.org",
-        "@graph": [  // The @graph array holds both objects
-        {
+        "@graph": [
+          // The @graph array holds both objects
+          {
             "@type": "Person",
             "name": "Samuel Moreno",
             "url": "{{ site.url }}",
             "jobTitle": "Financial Analyst with Business and Data Science Expertise",
             "mainEntityOfPage": "{{ site.url }}"
-        },
-        {
+          },
+          {
             "@type": "Article",
             "headline": "UEdB Students Win First Place at Inter-University Hackathon",
             "author": {
-            "@type": "Organization",
-            "name": "University of Edinburgh Business School",
-            "url": "https://www.business-school.ed.ac.uk/"
+              "@type": "Organization",
+              "name": "University of Edinburgh Business School",
+              "url": "https://www.business-school.ed.ac.uk/"
             },
             "url": "https://www.bccas.business-school.ed.ac.uk/news/uebs-students-win-first-place-inter-university-hackathon",
             "image": "https://www.bccas.business-school.ed.ac.uk/sites/cbccs/files/styles/images_landscape/public/2024-06/School.jpg?itok=MpmGfywv",
             "datePublished": "2024-08-29T08:00:00+08:00",
             "description": "A team of Graduate students from the University of Edinburgh Business School won first place at an Inter-University Hackathon 2024. They used LSEG APIs to create portfolios that aligned with ESG constraints.",
             "keywords": [
-            "University of Edinburgh Business School",
-            "Inter-University Hackathon",
-            "Net Zero Portfolio Optimization Solution",
-            "LSEG APIs", // Corrected API name
-            "ESG constraints"
+              "University of Edinburgh Business School",
+              "Inter-University Hackathon",
+              "Net Zero Portfolio Optimization Solution",
+              "LSEG APIs", // Corrected API name
+              "ESG constraints"
             ]
-        }
+          }
         ]
-        }
-        </script>
+      }
+    </script>
 
-    <meta property="og:title" content="Samuel Moreno - Personal Webpage - Finance, Technology & Policy">
-    <meta property="og:description" content="Samuel Moreno on finance, economics, ml, coding, technology, and policy.">
-    <meta property="og:image" content="{{ '/assets/Images/preview-image.jpg' | relative_url }}">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ site.url }}">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Samuel Moreno Santoyo - Finance, Technology and Policy - GregSom">
-    <meta name="twitter:description" content="Samuel Moreno's personal webpage and knowledge base. Main Focus: Finance, economics, machine learning, general programming and policy.">
-    <meta name="twitter:image" content="{{ '/assets/Images/favicon.ico' | relative_url }}">
+    <meta
+      property="og:title"
+      content="Samuel Moreno - Personal Webpage - Finance, Technology & Policy"
+    />
+    <meta
+      property="og:description"
+      content="Samuel Moreno on finance, economics, ml, coding, technology, and policy."
+    />
+    <meta
+      property="og:image"
+      content="{{ '/assets/Images/preview-image.jpg' | relative_url }}"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Samuel Moreno Santoyo - Finance, Technology and Policy - GregSom"
+    />
+    <meta
+      name="twitter:description"
+      content="Samuel Moreno's personal webpage and knowledge base. Main Focus: Finance, economics, machine learning, general programming and policy."
+    />
+    <meta
+      name="twitter:image"
+      content="{{ '/assets/Images/favicon.ico' | relative_url }}"
+    />
 
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/Css/style.css' | relative_url }}">
-    <link rel="icon" type="image/x-icon" href="{{ '/assets/Images/favicon.ico' | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    
-</head>
-<body>
-
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css' | relative_url }}"
+    />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="{{ '/assets/Images/favicon.ico' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+  </head>
+  <body>
     <header class="site-header">
-        
-        <div class="header-background"></div>
-        <div class="profile-container">
-            <img src="{{ '/assets/Images/yopo2024.jpg' | relative_url }}" alt="Profile Picture of Samuel Moreno" class="profile-picture">
-            <h1>Samuel Moreno</h1>
-        </div>
-        <nav class="site-nav">
-            <ul>
-                <li><a href="{{ site.baseurl }}/" id="home-link">Home</a></li>
-                <li><a href="{{ site.baseurl }}/research" id="research-link">Resources</a></li>
-                <li><a href="{{ site.baseurl }}/blog" id="blog-link">Blog</a></li>
-                <li><a href="{{ site.baseurl }}/contact" id="contact-link">Contact</a></li>
-                <li><a href="{{ site.baseurl }}/about/" id="/about/-link">About</a></li>
-            </ul>
-        </nav>
+      <div class="header-background"></div>
+      <div class="profile-container">
+        <img
+          src="{{ '/assets/Images/yopo2024.jpg' | relative_url }}"
+          alt="Profile Picture of Samuel Moreno"
+          class="profile-picture"
+        />
+        <h1>Samuel Moreno</h1>
+      </div>
+      <nav class="site-nav">
+        <ul>
+          <li><a href="{{ site.baseurl }}/" id="home-link">Home</a></li>
+          <li>
+            <a href="{{ site.baseurl }}/research" id="research-link"
+              >Resources</a
+            >
+          </li>
+          <li><a href="{{ site.baseurl }}/blog" id="blog-link">Blog</a></li>
+          <li>
+            <a href="{{ site.baseurl }}/contact" id="contact-link">Contact</a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/about/" id="/about/-link">About</a>
+          </li>
+        </ul>
+      </nav>
     </header>
-    <main>
-        {{ content }}
-    </main>
+    <main>{{ content }}</main>
     <!-- Footer Section -->
     <footer class="site-footer">
-        <div class="social-links">
-            <a href="https://www.linkedin.com/in/samuelgmoreno/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
-            <a href="https://discord.gg/GUAfWtw5" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord"></i></a>
-            <a href="https://github.com/GregSom-MSc" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
-        </div>
-        <div class="footer-disclaimer">
-            <p>&copy; 2025 Samuel Moreno Santoyo. All rights reserved.</p>
-            <p>This website is for educational purposes only. The information provided is not intended as legal, financial, or professional advice.</p>
-        </div>
+      <div class="social-links">
+        <a
+          href="https://www.linkedin.com/in/samuelgmoreno/"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-linkedin-in"></i
+        ></a>
+        <a
+          href="https://discord.gg/GUAfWtw5"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-discord"></i
+        ></a>
+        <a
+          href="https://github.com/GregSom-MSc"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><i class="fab fa-github"></i
+        ></a>
+      </div>
+      <div class="footer-disclaimer">
+        <p>&copy; 2025 Samuel Moreno Santoyo. All rights reserved.</p>
+        <p>
+          This website is for educational purposes only. The information
+          provided is not intended as legal, financial, or professional advice.
+        </p>
+      </div>
     </footer>
-    
+
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            // Get the current page URL path
-            let currentPath = window.location.pathname;
-    
-            // Select all navigation links
-            let navLinks = document.querySelectorAll(".site-nav a");
-    
-            // Loop through links and check for matches
-            navLinks.forEach(link => {
-                if (link.getAttribute("href") === currentPath) {
-                    link.classList.add("active");
-                }
-            });
+      document.addEventListener("DOMContentLoaded", function () {
+        // Get the current page URL path
+        let currentPath = window.location.pathname;
+
+        // Select all navigation links
+        let navLinks = document.querySelectorAll(".site-nav a");
+
+        // Loop through links and check for matches
+        navLinks.forEach((link) => {
+          if (link.getAttribute("href") === currentPath) {
+            link.classList.add("active");
+          }
         });
+      });
     </script>
-    
-</body>
+  </body>
 </html>
