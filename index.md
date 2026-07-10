@@ -32,10 +32,14 @@ layout: default
 </div>
 <hr>
 
-<h2> Github Contributions </h2>
+<h2>Github Contributions</h2>
 
-<div style="text-align: center;">
-    <iframe src="https://ghchart.rshah.org/GregSom-MSc" frameborder="0" scrolling="50" width="100%" height="190px" style="max-width: 600px; margin: auto;"></iframe>
+<div style="background: #ffffff; border-radius: 12px; padding: 20px 24px; box-shadow: 0 2px 16px rgba(0,0,0,0.07); border: 1px solid #e5e7eb; max-width: 720px; margin: 0 auto 1.5rem auto;">
+    <img
+        src="https://ghchart.rshah.org/134074/GregSom-MSc"
+        alt="Samuel Moreno's GitHub contribution chart"
+        style="width: 100%; height: auto; display: block;"
+    >
 </div>
 <hr>
 
