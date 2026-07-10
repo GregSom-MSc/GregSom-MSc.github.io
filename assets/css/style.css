@@ -10,6 +10,10 @@ body {
     align-items: center;
 }
 
+h1, h2, h3, h4, h5, h6, p, a, li, td, th, button, input, textarea, label {
+    font-family: Arial, sans-serif;
+}
+
 header {
     background-color: #fff;
     padding: 10px 0% 0%;
