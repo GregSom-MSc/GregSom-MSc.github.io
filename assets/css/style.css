@@ -133,8 +133,8 @@ main {
     font-size: smaller;
     color: #fff;
     padding: 20px;
-    background-color: #3c3c3c;
-    border-top: 1px solid #ccc;
+    background-color: #134074;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
     margin-top: 20px;
 }
 
