@@ -7,7 +7,7 @@ body {
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
-    padding: 0 10%;
+    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,12 +17,66 @@ h1, h2, h3, h4, h5, h6, p, a, li, td, th, button, input, textarea, label {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-header {
-    background-color: #fff;
-    padding: 10px 0% 0%;
+.site-header {
+    background-color: #134074;
     width: 100%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.22);
+    box-sizing: border-box;
+}
+
+.profile-container {
+    padding: 16px 0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+.profile-container h1 {
+    color: #ffffff;
+    font-size: 0.82rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.site-nav {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.site-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.site-nav ul li {
+    display: inline;
+    margin: 0;
+}
+
+.site-nav ul li a {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: 0.72rem;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.site-nav ul li a:hover {
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .container {
@@ -32,9 +86,10 @@ header {
 
 .profile-picture {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 72px;
+    height: 72px;
     object-fit: cover;
+    border: 2px solid rgba(255, 255, 255, 0.25);
 }
 
 nav ul {
@@ -83,32 +138,31 @@ main {
     margin-top: 20px;
 }
 
-.site-nav a.active {    /* This is the code that changes the color of the active page, yeah!  */
-    font-weight: bold;
-    color: #FFFFFF; 
-    text-decoration: underline;
-    background-color: #134074;
-    padding: 10px 22px;
-    border-radius: 5px;
-    margin-bottom: -3px;
+.site-nav a.active {
+    color: #ffffff;
+    font-weight: 500;
+    text-decoration: none;
+    background-color: transparent;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.55);
+    padding: 10px 15px;
+    border-radius: 0;
+    margin-bottom: 0;
 }
 
-@media (max-width: 768px) { /* Menu adjustment for mobiles. */
+@media (max-width: 768px) {
     .site-nav a.active {
-        font-weight: bold;
-        color: #FFFFFF; 
-        text-decoration: underline;
-        background-color: #134074;
-        padding: 3px 19px;
-        border-radius: 7px;
-        margin-top: 10px;
-        margin-right: 0;
-        margin-bottom: 5px;
-        margin-left: 0;
+        color: #ffffff;
+        font-weight: 500;
+        text-decoration: none;
+        background-color: transparent;
+        border-bottom: 2px solid rgba(255, 255, 255, 0.55);
+        padding: 8px 12px;
+        border-radius: 0;
+        margin: 0;
     }
-    nav ul li {
-        margin: 3px 3px;
-        padding: 15px 2px 15px 2px;
+    .site-nav ul li a {
+        padding: 8px 10px;
+        font-size: 0.68rem;
     }
 }
 
