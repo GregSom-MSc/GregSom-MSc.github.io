@@ -25,8 +25,7 @@ layout: default
 <h2>Lookin' for some nice Gadgets?</h2>
 <div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
     <p style="font-size: 1.2rem; color: #333;">Explore my <strong>Linktree</strong>, it has some useful & aesthetic stuff that I use and recommend: </p>
-    <a href="https://linktr.ee/somniverse" target="_blank"
-       style="display: inline-block; padding: 15px 25px; cursor: pointer; background-color: #134074; color: white; text-decoration: none; font-size: 1.3em; border-radius: 5px; font-weight: bold;">
+    <a href="https://linktr.ee/somniverse" target="_blank" class="somniverse-btn">
         Somniverse
     </a>
 </div>
