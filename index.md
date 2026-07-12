@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-# Welcome
 
 <div style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 2rem;">
 
-<h2> Samuel here, 来てくれて感謝する! </h2>
+<h2>Samuel here — 来てくれて感謝する!</h2>
 
     I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions. I am eager to apply my skills in the private financial sector, whether in research or hands-on roles. <br> <br>
 
@@ -32,14 +31,17 @@ layout: default
 <hr>
 
 <h2>Github Contributions</h2>
+<p style="font-size: 0.92rem; color: #666; margin: 0 0 12px 0;">Commits across public repositories — finance tools, ML experiments, and this site itself.</p>
 
-<div style="background: #ffffff; border-radius: 12px; padding: 20px 24px; box-shadow: 0 2px 16px rgba(0,0,0,0.07); border: 1px solid #e5e7eb; max-width: 720px; margin: 0 auto 1.5rem auto;">
+<div style="background: #ffffff; border-radius: 12px; padding: 20px 24px; box-shadow: 0 2px 16px rgba(0,0,0,0.07); border: 1px solid #e5e7eb; max-width: 720px; margin: 0 auto 0.5rem auto;">
     <img
         src="https://ghchart.rshah.org/134074/GregSom-MSc"
         alt="Samuel Moreno's GitHub contribution chart"
         style="width: 100%; height: auto; display: block;"
+        onerror="this.closest('div').innerHTML='<p style=\'text-align:center;color:#999;padding:12px 0;\'>Contribution chart unavailable — <a href=\'https://github.com/GregSom-MSc\'>view on GitHub</a>.</p>'"
     >
 </div>
+<p style="font-size: 0.85rem; color: #888; margin: 6px 0 1.5rem 0;">Full history on <a href="https://github.com/GregSom-MSc" target="_blank" rel="noopener noreferrer">github.com/GregSom-MSc</a>.</p>
 <hr>
 
 <p>
