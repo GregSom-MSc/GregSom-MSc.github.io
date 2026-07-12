@@ -44,13 +44,15 @@ layout: default
 <p style="font-size: 0.85rem; color: #888; margin: 6px 0 1.5rem 0;">Full history on <a href="https://github.com/GregSom-MSc" target="_blank" rel="noopener noreferrer">github.com/GregSom-MSc</a>.</p>
 <hr>
 
-<div style="display: flex; flex-direction: column; gap: 10px; margin-top: 1rem;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="{{ '/assets/Images/uoe-logo.svg' | relative_url }}" alt="University of Edinburgh logo" style="height: 22px; width: auto; display: block;">
-    <span style="font-size: 0.9rem; color: #444;">MSc Finance, Technology &amp; Policy — University of Edinburgh</span>
+<div class="credential-pills">
+  <div class="credential-pill">
+    <span class="pill-institution">University of Edinburgh</span>
+    <span class="pill-sep">·</span>
+    <span>MSc Finance, Technology &amp; Policy</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="{{ '/assets/Images/itam-logo.svg' | relative_url }}" alt="ITAM logo" style="height: 22px; width: auto; display: block;">
-    <span style="font-size: 0.9rem; color: #444;">BA Economics / MA Economic Theory — ITAM</span>
+  <div class="credential-pill">
+    <span class="pill-institution">ITAM</span>
+    <span class="pill-sep">·</span>
+    <span>BA Economics / MA Economic Theory</span>
   </div>
 </div>

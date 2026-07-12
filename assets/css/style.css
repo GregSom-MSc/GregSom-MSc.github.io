@@ -177,6 +177,36 @@ main {
 }
 
     
+.credential-pills {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.credential-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 16px;
+    border: 1px solid rgba(19, 64, 116, 0.28);
+    border-radius: 20px;
+    font-size: 0.83rem;
+    color: #555;
+    width: fit-content;
+    letter-spacing: 0.01em;
+}
+
+.credential-pill .pill-institution {
+    font-weight: 600;
+    color: #134074;
+}
+
+.credential-pill .pill-sep {
+    margin: 0 7px;
+    color: #bbb;
+}
+
 .somniverse-btn {
     display: inline-flex;
     align-items: center;
