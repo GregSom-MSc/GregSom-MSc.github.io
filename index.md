@@ -44,11 +44,13 @@ layout: default
 <p style="font-size: 0.85rem; color: #888; margin: 6px 0 1.5rem 0;">Full history on <a href="https://github.com/GregSom-MSc" target="_blank" rel="noopener noreferrer">github.com/GregSom-MSc</a>.</p>
 <hr>
 
-<p>
-  MSc in Finance, Technology and Policy by  <a href="https://www.ed.ac.uk/"></a>
-  <img src="https://tinderboxcollective.org/wp-content/uploads/2020/11/UoE-Stacked-Colour-white-background-logo.png" alt="UoE Logo" height="10">
-</p>
-<p>
-  BA Economics, MA Economic Theory, by  <a href="https://www.itam.mx/en"></a>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/ab/Logo_ITAM.svg" alt="ITAM Logo" height="10">
-</p>
+<div style="display: flex; flex-direction: column; gap: 10px; margin-top: 1rem;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="{{ '/assets/Images/uoe-logo.svg' | relative_url }}" alt="University of Edinburgh logo" style="height: 22px; width: auto; display: block;">
+    <span style="font-size: 0.9rem; color: #444;">MSc Finance, Technology &amp; Policy — University of Edinburgh</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="{{ '/assets/Images/itam-logo.svg' | relative_url }}" alt="ITAM logo" style="height: 22px; width: auto; display: block;">
+    <span style="font-size: 0.9rem; color: #444;">BA Economics / MA Economic Theory — ITAM</span>
+  </div>
+</div>
