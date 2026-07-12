@@ -90,32 +90,20 @@
   </head>
   <body>
     <header class="site-header">
-      <div class="header-background"></div>
-      <div class="profile-container">
-        <img
-          src="{{ '/assets/Images/yopo2024.jpg' | relative_url }}"
-          alt="Profile Picture of Samuel Moreno"
-          class="profile-picture"
-        />
-        <h1>Samuel Moreno</h1>
+      <div class="header-inner">
+        <a href="{{ site.baseurl }}/" class="site-wordmark">
+          <span class="wm-first">Samuel</span><span class="wm-last">Moreno</span>
+        </a>
+        <nav class="site-nav">
+          <ul>
+            <li><a href="{{ site.baseurl }}/" id="home-link">Home</a></li>
+            <li><a href="{{ site.baseurl }}/research" id="research-link">Resources</a></li>
+            <li><a href="{{ site.baseurl }}/blog" id="blog-link">Blog</a></li>
+            <li><a href="{{ site.baseurl }}/contact" id="contact-link">Contact</a></li>
+            <li><a href="{{ site.baseurl }}/about/" id="/about/-link">About</a></li>
+          </ul>
+        </nav>
       </div>
-      <nav class="site-nav">
-        <ul>
-          <li><a href="{{ site.baseurl }}/" id="home-link">Home</a></li>
-          <li>
-            <a href="{{ site.baseurl }}/research" id="research-link"
-              >Resources</a
-            >
-          </li>
-          <li><a href="{{ site.baseurl }}/blog" id="blog-link">Blog</a></li>
-          <li>
-            <a href="{{ site.baseurl }}/contact" id="contact-link">Contact</a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/about/" id="/about/-link">About</a>
-          </li>
-        </ul>
-      </nav>
     </header>
     <main>{{ content }}</main>
     <!-- Footer Section -->

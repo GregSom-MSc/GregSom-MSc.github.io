@@ -2,6 +2,28 @@
 layout: default
 ---
 
+<div id="hero" style="text-align: center; padding: 2.5rem 0 1rem;">
+  <img id="hero-photo"
+       src="{{ '/assets/Images/yopo2024.jpg' | relative_url }}"
+       alt="Samuel Moreno"
+       class="hero-photo">
+</div>
+
+<script>
+(function () {
+  var photo = document.getElementById('hero-photo');
+  var hero  = document.getElementById('hero');
+  if (!photo) return;
+  window.addEventListener('scroll', function () {
+    var p = Math.min(window.scrollY / 300, 1);
+    photo.style.transform = 'scale(' + Math.max(0.04, 1 - p * 0.96) + ')';
+    photo.style.opacity   = Math.max(0, 1 - p * 1.6).toString();
+    hero.style.paddingTop    = (2.5 - p * 2.5) + 'rem';
+    hero.style.paddingBottom = (1   - p * 1)   + 'rem';
+  }, { passive: true });
+}());
+</script>
+
 <div style="line-height: 1.6; margin-bottom: 2rem;">
 
 <h2>Samuel here — 来てくれて感謝する!</h2>
