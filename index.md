@@ -20,15 +20,15 @@ layout: default
 
 <script>
 (function () {
-  var photo = document.getElementById(‘hero-photo’);
+  var photo = document.getElementById('hero-photo');
   if (!photo) return;
   function update() {
     var s = window.scrollY || document.documentElement.scrollTop || 0;
     var p = Math.min(s / 250, 1);
-    photo.style.transform = ‘scale(‘ + Math.max(0.05, 1 - p * 0.95) + ‘)’;
+    photo.style.transform = 'scale(' + Math.max(0.05, 1 - p * 0.95) + ')';
     photo.style.opacity = Math.max(0, 1 - p * 1.8).toString();
   }
-  window.addEventListener(‘scroll’, update, { passive: true });
+  window.addEventListener('scroll', update, { passive: true });
   update();
 }());
 </script>
