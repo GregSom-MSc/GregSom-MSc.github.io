@@ -4,7 +4,7 @@ layout: default
 
 <div id="hero" class="hero-section">
   <img id="hero-photo"
-       src="{{ ‘/assets/Images/yopo2024.jpg’ | relative_url }}"
+       src="{{ '/assets/Images/yopo2024.jpg' | relative_url }}"
        alt="Samuel Moreno"
        class="hero-photo">
   <div class="hero-text">
