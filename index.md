@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 2rem;">
+<div style="line-height: 1.6; margin-bottom: 2rem;">
 
 <h2>Samuel here — 来てくれて感謝する!</h2>
 
