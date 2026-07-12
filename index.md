@@ -1,5 +1,6 @@
----
+﻿---
 layout: default
+title: Home | Samuel Moreno
 ---
 
 <div id="hero" class="hero-section">
@@ -8,13 +9,14 @@ layout: default
        alt="Samuel Moreno"
        class="hero-photo">
   <div class="hero-text">
-    <h2>Samuel here — 来てくれて感謝する!</h2>
-    <p>I’m an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions. I am eager to apply my skills in the private financial sector, whether in research or hands-on roles.</p>
-    <p>Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a guid cup o’ coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.</p>
+    <h1>Samuel Moreno</h1>
+    <p class="tagline">Economist &amp; Data Scientist · Edinburgh MSc · Quantitative Finance &amp; AI</p>
+    <p>Samuel here — 来てくれて感謝する! I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions.</p>
+    <p>Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a guid cup o' coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.</p>
     <p>I especially enjoy aquascaping, my favorite hobby. I am building some projects as of today, and I will be entering the reef-aquarium world soon enough.</p>
     <p>Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources.</p>
-    <p>Also, I’m currently working on a nice Scotland guiding toolkit called <a href="https://guiame.ai">Guiame.ai</a> — built from scratch, helping others discover an authentic Scotland.</p>
-    <p><b>Don’t hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b></p>
+    <p>Also, I'm currently working on a nice Scotland guiding toolkit called <a href="https://guiame.ai">Guiame.ai</a> — built from scratch, helping others discover an authentic Scotland.</p>
+    <p><b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b></p>
   </div>
 </div>
 

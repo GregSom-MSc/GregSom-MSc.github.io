@@ -1,0 +1,15 @@
+title: Samuel Moreno — Finance, Technology & Policy
+email: samuelg.morenos@gmail.com
+description: >-
+  Personal website of Samuel Moreno — Economist, Financial Analyst, and Data Scientist.
+  Explore research, projects, and curated resources on finance, machine learning, and technology.
+
+url: "https://gregsom-msc.github.io"
+baseurl: ""
+
+github_username: GregSom-MSc
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
