@@ -33,14 +33,6 @@ title: Home | Samuel Moreno
 </script>
 
 <hr>
-<h2>Lookin' for some nice Gadgets?</h2>
-<div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
-    <p style="color: #333;">Explore my <strong>Linktree</strong>, it has some useful & aesthetic stuff that I use and recommend: </p>
-    <a href="https://linktr.ee/somniverse" target="_blank" class="somniverse-btn">
-        Somniverse
-    </a>
-</div>
-<hr>
 
 <h2>Github Contributions</h2>
 <p style="font-size: 0.92rem; color: #666; margin: 0 0 12px 0;">Commits across public repositories — finance tools, ML experiments, and this site itself.</p>
