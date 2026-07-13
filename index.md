@@ -11,12 +11,9 @@ title: Home | Samuel Moreno
   <div class="hero-text">
     <h1>Samuel Moreno</h1>
     <p class="tagline">Economist &amp; Data Scientist · Edinburgh MSc · Quantitative Finance &amp; AI</p>
-    <p>Samuel here — 来てくれて感謝する! I'm an Economist and Financial Analyst with a strong passion for data science and technology, driven by curiosity and a commitment to innovation, sustainability, and simple yet impactful solutions. My focus includes predictive modeling with machine learning, big data analytics, and AI financial market solutions.</p>
-    <p>Beyond finance and technology, I enjoy exploring new business ideas, running, savoring a guid cup o' coffee, and diving into history. I actively engage in private consulting (<a href="https://GregSom-MSc.github.io/contact">feel free to reach out</a>), pursue entrepreneurial ventures, and seek to transition into quantitative finance roles.</p>
-    <p>I especially enjoy aquascaping, my favorite hobby. I am building some projects as of today, and I will be entering the reef-aquarium world soon enough.</p>
-    <p>Feel free to explore my <a href="https://GregSom-MSc.github.io/research">projects, research, and some interesting readings</a>. I hope you will discover some valuable and inspiring resources.</p>
-    <p>Also, I'm currently working on a nice Scotland guiding toolkit called <a href="https://guiame.ai">Guiame.ai</a> — built from scratch, helping others discover an authentic Scotland.</p>
-    <p><b>Don't hesitate to <a href="https://GregSom-MSc.github.io/contact">contact me or ask anything</a>.</b></p>
+    <p>Samuel here — 来てくれて感謝する! I'm an Economist and Financial Analyst. Most of my thinking goes into data science, machine learning, and how AI is reshaping the world we live in: everyday decisions, from financial markets to running routines. I studied economic theory at ITAM and then finance, technology and policy at Edinburgh — two very different places that both changed how I see problems.</p>
+    <p>I also spend a lot of time building things. <a href="https://guiame.ai">Guiame.ai</a>, a Scotland travel toolkit, is the most recent — I started it after a few years of guiding visitors across the Highlands and learning scale-up logistics in one of the best hospitality companies in Scotland. It turns out guiding is excellent research.</p>
+    <p>History, aquascaping, running, and a guid cup o' coffee fill in the rest. On the side, I help people get into Edinburgh, settle abroad, and think through early startup decisions — and take on private consulting in Mexico when interesting problems come up. <a href="https://GregSom-MSc.github.io/contact">Reach out</a> if something here catches your attention.</p>
   </div>
 </div>
 

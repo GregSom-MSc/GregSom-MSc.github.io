@@ -156,11 +156,13 @@ label {
 }
 
 .hero-photo {
-  width: 120px;
-  height: 120px;
-  border-radius: 6px;
+  width: 115px;
+  height: 140px;
+  border-radius: 10px;
   object-fit: cover;
-  border: 2px solid rgba(19, 64, 116, 0.12);
+  object-position: center top;
+  border: 1.5px solid rgba(19, 64, 116, 0.35);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.13);
   flex-shrink: 0;
   will-change: transform, opacity;
   transform-origin: left top;
