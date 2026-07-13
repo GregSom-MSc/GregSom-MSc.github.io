@@ -327,40 +327,6 @@ main {
   color: #bbb;
 }
 
-.somniverse-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 14px 30px;
-  background: linear-gradient(135deg, #134074 0%, #1a5490 100%);
-  color: #fff;
-  text-decoration: none;
-  font-size: 1.1rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(19, 64, 116, 0.38);
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
-}
-
-.somniverse-btn::after {
-  content: "\2192";
-  display: inline-block;
-  transition: transform 0.2s ease;
-}
-
-.somniverse-btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 26px rgba(19, 64, 116, 0.52);
-  color: #fff;
-  text-decoration: none;
-}
-
-.somniverse-btn:hover::after {
-  transform: translateX(5px);
-}
 
 .social-links a {
   margin: 0 10px;
@@ -370,6 +336,22 @@ main {
 
 .social-links a:hover {
   color: #f0f7ff;
+}
+
+.footer-links {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.78rem;
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: rgba(255, 255, 255, 0.85);
 }
 
 .footer-disclaimer {
