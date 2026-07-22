@@ -6,6 +6,7 @@ description: >-
 
 url: "https://gregsom-msc.github.io"
 baseurl: ""
+permalink: /blog/:title/
 
 github_username: GregSom-MSc
 

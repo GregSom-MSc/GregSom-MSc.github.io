@@ -1,0 +1,4 @@
+<div class="post-row" data-topic="{{ include.post.topic }}">
+  <a href="{{ include.post.url | relative_url }}" class="post-row-title">{{ include.post.title }}</a>
+  <span class="post-row-meta">{{ include.post.topic }} &middot; {{ include.post.date | date: "%-d %b %Y" }}</span>
+</div>

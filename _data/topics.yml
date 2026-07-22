@@ -1,0 +1,10 @@
+# Names must exactly match each post's `topic:` front matter value (case-sensitive) —
+# the listing page's JS filter matches on this string via data-topic attributes.
+- name: Finance
+  tint: navy
+- name: Public Finances
+  tint: navy
+- name: AI
+  tint: sage
+- name: Economic History
+  tint: sage

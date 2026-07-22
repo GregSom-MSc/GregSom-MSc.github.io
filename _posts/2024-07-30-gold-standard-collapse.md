@@ -1,21 +1,12 @@
 ---
 layout: post
-title:  "Sam's Blog"
-date:   2024-07-30 21:41:11 +0100
-categories: jekyll update
+title: "A Short Note on the Gold Standard's Quiet Collapse"
+date: 2024-07-30 21:41:11 +0100
+topic: Economic History
+excerpt: "It didn't end with one dramatic announcement. It ended country by country, over a decade, mostly out of necessity."
+featured: false
 ---
-You’ll find this posts scattered through time, but I hope that the site can offer a little insight unto who I am and what I can do for you.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The gold standard's collapse in the 1930s is often remembered as a single moment — but it was closer to a decade-long unraveling, country by country, mostly forced by circumstance rather than chosen on principle.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Britain left first in 1931, under pressure from a run on sterling. The US followed in 1933–34, revaluing gold rather than abandoning it outright. France, clinging longest to the "gold bloc," held on until 1936. Each departure eased that country's ability to use monetary policy against the Depression — and each one made the delay of the remaining holdouts more painful.
